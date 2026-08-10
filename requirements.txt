@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+jupyter
+openpyxl
+sqlalchemy
+psycopg2-binary
+statsmodels
+faker

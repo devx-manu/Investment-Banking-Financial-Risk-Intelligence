@@ -1,0 +1,101 @@
+branch_id,branch_name,city,state,region,branch_type,opening_date
+1,Mumbai Retail Branch 001,Mumbai,Maharashtra,West,Retail,2010-05-23
+2,Kolkata Retail Branch 002,Kolkata,West Bengal,East,Retail,2007-06-15
+3,Mumbai Full Service Branch 003,Mumbai,Maharashtra,West,Full Service,2015-12-17
+4,Delhi Full Service Branch 004,Delhi,Delhi,North,Full Service,2014-12-08
+5,Hyderabad Full Service Branch 005,Hyderabad,Telangana,South,Full Service,2014-03-13
+6,Mangaluru Full Service Branch 006,Mangaluru,Karnataka,South,Full Service,2011-05-09
+7,Mysuru Retail Branch 007,Mysuru,Karnataka,South,Retail,2010-02-02
+8,Coimbatore Full Service Branch 008,Coimbatore,Tamil Nadu,South,Full Service,2025-02-27
+9,Bengaluru Full Service Branch 009,Bengaluru,Karnataka,South,Full Service,2009-07-24
+10,Jaipur Full Service Branch 010,Jaipur,Rajasthan,North,Full Service,2020-12-16
+11,Surat Full Service Branch 011,Surat,Gujarat,West,Full Service,2007-09-07
+12,Bhubaneswar Full Service Branch 012,Bhubaneswar,Odisha,East,Full Service,2007-08-14
+13,Kolkata Retail Branch 013,Kolkata,West Bengal,East,Retail,2009-10-16
+14,Jaipur Full Service Branch 014,Jaipur,Rajasthan,North,Full Service,2014-01-16
+15,Mangaluru Corporate Branch 015,Mangaluru,Karnataka,South,Corporate,2014-07-09
+16,Mumbai Full Service Branch 016,Mumbai,Maharashtra,West,Full Service,2023-10-19
+17,Mumbai Full Service Branch 017,Mumbai,Maharashtra,West,Full Service,2007-07-04
+18,Chandigarh Corporate Branch 018,Chandigarh,Chandigarh,North,Corporate,2013-05-15
+19,Ahmedabad Full Service Branch 019,Ahmedabad,Gujarat,West,Full Service,2025-02-22
+20,Mysuru Retail Branch 020,Mysuru,Karnataka,South,Retail,2020-11-16
+21,Kolkata Retail Branch 021,Kolkata,West Bengal,East,Retail,2014-02-07
+22,Jaipur Full Service Branch 022,Jaipur,Rajasthan,North,Full Service,2021-11-20
+23,Kolkata Full Service Branch 023,Kolkata,West Bengal,East,Full Service,2016-01-26
+24,Patna Full Service Branch 024,Patna,Bihar,East,Full Service,2006-10-28
+25,Pune Retail Branch 025,Pune,Maharashtra,West,Retail,2012-01-14
+26,Coimbatore Full Service Branch 026,Coimbatore,Tamil Nadu,South,Full Service,2020-12-25
+27,Hyderabad Full Service Branch 027,Hyderabad,Telangana,South,Full Service,2018-03-07
+28,Guwahati Retail Branch 028,Guwahati,Assam,East,Retail,2016-01-22
+29,Mysuru Full Service Branch 029,Mysuru,Karnataka,South,Full Service,2011-11-23
+30,Hyderabad Retail Branch 030,Hyderabad,Telangana,South,Retail,2013-12-05
+31,Bhubaneswar Full Service Branch 031,Bhubaneswar,Odisha,East,Full Service,2018-01-21
+32,Chandigarh Full Service Branch 032,Chandigarh,Chandigarh,North,Full Service,2010-01-30
+33,Pune Corporate Branch 033,Pune,Maharashtra,West,Corporate,2009-10-04
+34,Lucknow Full Service Branch 034,Lucknow,Uttar Pradesh,North,Full Service,2019-07-13
+35,Lucknow Full Service Branch 035,Lucknow,Uttar Pradesh,North,Full Service,2009-11-22
+36,Kolkata Full Service Branch 036,Kolkata,West Bengal,East,Full Service,2018-10-26
+37,Mumbai Full Service Branch 037,Mumbai,Maharashtra,West,Full Service,2018-04-22
+38,Bengaluru Full Service Branch 038,Bengaluru,Karnataka,South,Full Service,2015-08-09
+39,Delhi Full Service Branch 039,Delhi,Delhi,North,Full Service,2008-01-30
+40,Pune Retail Branch 040,Pune,Maharashtra,West,Retail,2022-03-27
+41,Bengaluru Retail Branch 041,Bengaluru,Karnataka,South,Retail,2024-11-06
+42,Surat Full Service Branch 042,Surat,Gujarat,West,Full Service,2010-11-07
+43,Ahmedabad Corporate Branch 043,Ahmedabad,Gujarat,West,Corporate,2019-06-26
+44,Ahmedabad Retail Branch 044,Ahmedabad,Gujarat,West,Retail,2009-04-14
+45,Mysuru Full Service Branch 045,Mysuru,Karnataka,South,Full Service,2025-05-21
+46,Chennai Retail Branch 046,Chennai,Tamil Nadu,South,Retail,2016-07-30
+47,Pune Full Service Branch 047,Pune,Maharashtra,West,Full Service,2018-11-28
+48,Mangaluru Full Service Branch 048,Mangaluru,Karnataka,South,Full Service,2013-02-22
+49,Chennai Digital Hub Branch 049,Chennai,Tamil Nadu,South,Digital Hub,2008-12-20
+50,Mangaluru Retail Branch 050,Mangaluru,Karnataka,South,Retail,2008-02-29
+51,Chandigarh Full Service Branch 051,Chandigarh,Chandigarh,North,Full Service,2014-05-11
+52,Ahmedabad Retail Branch 052,Ahmedabad,Gujarat,West,Retail,2016-06-13
+53,Surat Full Service Branch 053,Surat,Gujarat,West,Full Service,2009-04-26
+54,Mumbai Full Service Branch 054,Mumbai,Maharashtra,West,Full Service,2014-07-11
+55,Hyderabad Corporate Branch 055,Hyderabad,Telangana,South,Corporate,2010-01-15
+56,Mumbai Full Service Branch 056,Mumbai,Maharashtra,West,Full Service,2019-07-16
+57,Delhi Full Service Branch 057,Delhi,Delhi,North,Full Service,2016-01-23
+58,Lucknow Full Service Branch 058,Lucknow,Uttar Pradesh,North,Full Service,2022-01-11
+59,Mysuru Retail Branch 059,Mysuru,Karnataka,South,Retail,2019-01-06
+60,Coimbatore Full Service Branch 060,Coimbatore,Tamil Nadu,South,Full Service,2012-02-20
+61,Jaipur Full Service Branch 061,Jaipur,Rajasthan,North,Full Service,2019-03-14
+62,Delhi Full Service Branch 062,Delhi,Delhi,North,Full Service,2018-09-10
+63,Mumbai Corporate Branch 063,Mumbai,Maharashtra,West,Corporate,2013-09-24
+64,Bengaluru Full Service Branch 064,Bengaluru,Karnataka,South,Full Service,2015-09-08
+65,Lucknow Corporate Branch 065,Lucknow,Uttar Pradesh,North,Corporate,2009-01-12
+66,Mumbai Full Service Branch 066,Mumbai,Maharashtra,West,Full Service,2012-06-04
+67,Ahmedabad Full Service Branch 067,Ahmedabad,Gujarat,West,Full Service,2024-10-11
+68,Bengaluru Full Service Branch 068,Bengaluru,Karnataka,South,Full Service,2014-12-07
+69,Jaipur Full Service Branch 069,Jaipur,Rajasthan,North,Full Service,2012-02-29
+70,Ahmedabad Full Service Branch 070,Ahmedabad,Gujarat,West,Full Service,2022-05-01
+71,Patna Full Service Branch 071,Patna,Bihar,East,Full Service,2019-07-07
+72,Jaipur Full Service Branch 072,Jaipur,Rajasthan,North,Full Service,2015-10-15
+73,Mysuru Retail Branch 073,Mysuru,Karnataka,South,Retail,2025-07-21
+74,Chennai Full Service Branch 074,Chennai,Tamil Nadu,South,Full Service,2014-01-28
+75,Patna Full Service Branch 075,Patna,Bihar,East,Full Service,2017-08-21
+76,Mysuru Full Service Branch 076,Mysuru,Karnataka,South,Full Service,2008-07-04
+77,Chennai Full Service Branch 077,Chennai,Tamil Nadu,South,Full Service,2014-05-25
+78,Bengaluru Full Service Branch 078,Bengaluru,Karnataka,South,Full Service,2007-09-11
+79,Mysuru Full Service Branch 079,Mysuru,Karnataka,South,Full Service,2017-05-03
+80,Coimbatore Full Service Branch 080,Coimbatore,Tamil Nadu,South,Full Service,2020-04-02
+81,Hyderabad Full Service Branch 081,Hyderabad,Telangana,South,Full Service,2015-09-18
+82,Patna Retail Branch 082,Patna,Bihar,East,Retail,2008-11-08
+83,Chennai Retail Branch 083,Chennai,Tamil Nadu,South,Retail,2013-10-13
+84,Coimbatore Full Service Branch 084,Coimbatore,Tamil Nadu,South,Full Service,2017-04-23
+85,Bhubaneswar Retail Branch 085,Bhubaneswar,Odisha,East,Retail,2013-11-02
+86,Ahmedabad Full Service Branch 086,Ahmedabad,Gujarat,West,Full Service,2023-08-04
+87,Coimbatore Retail Branch 087,Coimbatore,Tamil Nadu,South,Retail,2020-01-24
+88,Mangaluru Retail Branch 088,Mangaluru,Karnataka,South,Retail,2022-03-20
+89,Hyderabad Full Service Branch 089,Hyderabad,Telangana,South,Full Service,2011-06-19
+90,Mangaluru Corporate Branch 090,Mangaluru,Karnataka,South,Corporate,2015-08-13
+91,Mumbai Full Service Branch 091,Mumbai,Maharashtra,West,Full Service,2011-05-10
+92,Bengaluru Full Service Branch 092,Bengaluru,Karnataka,South,Full Service,2014-12-29
+93,Mumbai Corporate Branch 093,Mumbai,Maharashtra,West,Corporate,2024-12-10
+94,Bengaluru Retail Branch 094,Bengaluru,Karnataka,South,Retail,2015-07-18
+95,Guwahati Corporate Branch 095,Guwahati,Assam,East,Corporate,2021-03-07
+96,Surat Full Service Branch 096,Surat,Gujarat,West,Full Service,2020-03-11
+97,Bhubaneswar Corporate Branch 097,Bhubaneswar,Odisha,East,Corporate,2018-12-02
+98,Patna Full Service Branch 098,Patna,Bihar,East,Full Service,2014-01-24
+99,Bhubaneswar Digital Hub Branch 099,Bhubaneswar,Odisha,East,Digital Hub,2011-04-24
+100,Chennai Corporate Branch 100,Chennai,Tamil Nadu,South,Corporate,2023-12-10

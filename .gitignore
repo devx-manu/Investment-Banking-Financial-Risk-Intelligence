@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+.pytest_cache/
+
+# Environment / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temporary/backup files
+*.pbit
+*.tmp
+~$*
+
+# Python generated temporary files
+*.log
+
+# Database dumps / local database files
+*.sql.gz
+*.dump
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Large temporary outputs
+temp/
+tmp/
+
+# Large generated banking datasets
+data/raw/transactions.csv
+data/raw/atm_transactions.csv
+data/raw/digital_banking.csv
+data/raw/loan_payments.csv
+
+# Large processed datasets
+data/processed/

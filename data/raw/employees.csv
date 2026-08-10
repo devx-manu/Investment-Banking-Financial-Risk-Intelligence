@@ -1,0 +1,1501 @@
+employee_id,branch_id,employee_name,job_role,hire_date,salary,employment_status
+1,52,Aryan Maharaj,Investment Advisor,2015-10-08,40572.35,Active
+2,75,Liam Chaudry,Investment Advisor,2023-02-11,66944.27,Active
+3,24,Pahal Balay,Credit Analyst,2012-02-10,50801.64,Active
+4,21,Tejas Kaul,Relationship Manager,2020-03-14,72395.25,Active
+5,22,Rushil Saini,Risk Analyst,2015-05-09,79678.56,Active
+6,92,Arunima Ahuja,Credit Analyst,2024-07-06,35124.12,Active
+7,64,Pahal Oak,Risk Analyst,2016-04-30,62490.93,Active
+8,39,Tanveer Nayar,Loan Officer,2013-05-05,49990.96,Leave
+9,60,Lajita Chatterjee,Loan Officer,2017-09-16,57006.67,Active
+10,92,Aishani Bassi,Operations Officer,2024-01-07,59182.57,Active
+11,8,Jeet Radhakrishnan,Credit Analyst,2012-12-10,55253.8,Active
+12,2,Janaki Handa,Customer Service Officer,2023-08-04,68615.39,Active
+13,4,Chakradev Kari,Customer Service Officer,2024-10-02,27933.53,Leave
+14,95,Fariq Kaul,Investment Advisor,2026-05-06,41549.31,Active
+15,62,Lajita Mall,Investment Advisor,2019-04-26,70658.78,Active
+16,24,Nicholas Prabhakar,Fraud Analyst,2017-08-24,75411.62,Resigned
+17,60,Amara Bora,Risk Analyst,2021-12-19,44569.41,Active
+18,9,Yash Gade,Investment Advisor,2019-06-20,50027.9,Active
+19,8,Anamika Kanda,Investment Advisor,2023-04-02,82926.05,Active
+20,41,Daksh Karnik,Operations Officer,2025-08-01,75903.54,Active
+21,12,Diya Rattan,Loan Officer,2016-02-27,54939.52,Active
+22,37,Siddharth Murty,Credit Analyst,2015-03-22,45734.87,Active
+23,86,Meghana Shanker,Credit Analyst,2014-01-12,41637.63,Active
+24,1,Liam Koshy,Teller,2024-04-11,58306.49,Active
+25,14,Priya Rastogi,Operations Officer,2017-10-05,56801.22,Active
+26,96,Lakshit Upadhyay,Operations Officer,2019-12-31,42704.3,Active
+27,96,Champak Choudhary,Branch Manager,2014-03-15,55443.23,Active
+28,43,Pahal Bhatt,Branch Manager,2018-02-23,67845.57,Leave
+29,71,Upadhriti Wadhwa,Credit Analyst,2015-11-18,71361.01,Active
+30,28,Ishwar Yadav,Branch Manager,2024-05-17,89802.25,Active
+31,75,Harini Choudhury,Fraud Analyst,2016-08-05,53387.46,Active
+32,1,Nakul Setty,Risk Analyst,2011-08-29,44286.74,Active
+33,77,Xiti Gokhale,Risk Analyst,2020-03-28,44151.99,Active
+34,62,Chanchal Tripathi,Teller,2021-12-18,50145.04,Active
+35,44,Michael Prakash,Investment Advisor,2024-07-29,56587.87,Active
+36,52,Aadi Naik,Relationship Manager,2019-12-01,68969.37,Active
+37,58,Isaac Patil,Branch Manager,2025-10-01,79718.4,Active
+38,56,Wriddhish Bhardwaj,Relationship Manager,2015-09-13,41393.88,Active
+39,2,Frederick Sunder,Loan Officer,2025-06-26,51296.71,Active
+40,1,Jeremiah Dave,Credit Analyst,2022-10-29,58136.11,Active
+41,53,Noah Lanka,Fraud Analyst,2020-07-30,89320.65,Active
+42,38,Siddharth Zacharia,Investment Advisor,2024-06-14,77899.64,Active
+43,98,Devika Rastogi,Customer Service Officer,2023-01-11,91703.67,Active
+44,73,Raksha Varughese,Customer Service Officer,2019-04-14,52244.49,Active
+45,3,Yug Kar,Branch Manager,2012-09-09,40787.73,Active
+46,19,Ansh Karpe,Branch Manager,2021-08-12,47154.96,Active
+47,52,Abhimanyu Bobal,Risk Analyst,2023-08-24,43399.43,Leave
+48,1,Veer Bir,Risk Analyst,2012-02-20,102999.26,Active
+49,23,Ekavir Varkey,Fraud Analyst,2015-08-26,79596.95,Active
+50,60,Vedika Kala,Relationship Manager,2020-10-10,38917.43,Active
+51,48,Urvashi Kibe,Teller,2024-12-13,65575.6,Active
+52,99,Niharika Gupta,Credit Analyst,2013-03-17,78718.86,Active
+53,3,Raagini Pandya,Branch Manager,2018-10-23,65360.44,Active
+54,75,Unni Bhagat,Relationship Manager,2023-01-22,67592.81,Active
+55,38,Darsh Rau,Investment Advisor,2023-12-28,66341.79,Active
+56,82,Ikbal Kothari,Loan Officer,2014-11-11,46628.96,Active
+57,80,Saumya Dey,Risk Analyst,2018-10-12,37589.28,Active
+58,8,Arya Shere,Operations Officer,2015-11-08,59346.55,Active
+59,33,Saanvi Chaudhari,Credit Analyst,2012-06-18,37740.93,Active
+60,51,Girik Khalsa,Customer Service Officer,2014-06-07,77044.27,Active
+61,27,Vedika Srivastava,Loan Officer,2015-03-29,94383.43,Active
+62,97,Daniel Gala,Teller,2018-01-18,37412.74,Active
+63,48,Madhavi Lanka,Credit Analyst,2024-12-10,100503.42,Active
+64,44,Bhavika Sampath,Teller,2023-06-15,68793.94,Active
+65,37,Mohammed Gupta,Investment Advisor,2016-08-25,74024.05,Active
+66,60,Dalbir Bhat,Relationship Manager,2024-04-29,30318.69,Active
+67,85,Dakshesh Bedi,Operations Officer,2021-07-16,57588.52,Active
+68,95,Yadavi Wali,Customer Service Officer,2014-04-13,32462.01,Active
+69,46,Yashoda Buch,Investment Advisor,2026-02-01,74778.78,Active
+70,27,Ekapad Bir,Fraud Analyst,2023-02-02,41024.7,Active
+71,17,Netra Dar,Investment Advisor,2021-04-17,87471.47,Active
+72,93,Balveer Bumb,Fraud Analyst,2018-09-25,86580.57,Active
+73,99,Advika Jayaraman,Loan Officer,2022-12-30,71701.48,Active
+74,65,William Lanka,Investment Advisor,2018-05-03,230603.72,Active
+75,16,Charita Shankar,Credit Analyst,2016-12-24,39998.7,Active
+76,87,Aditya Shanker,Customer Service Officer,2022-03-03,35409.35,Active
+77,58,Ethan Yogi,Customer Service Officer,2015-03-25,51788.01,Active
+78,70,Kevin Palla,Customer Service Officer,2012-10-09,61578.59,Active
+79,97,Kala Mane,Investment Advisor,2014-04-15,46613.42,Active
+80,68,Chasmum Wadhwa,Customer Service Officer,2011-09-26,75952.18,Active
+81,94,Hemang Desai,Credit Analyst,2016-02-07,96490.75,Resigned
+82,30,Hredhaan Dugal,Credit Analyst,2016-03-27,80022.9,Active
+83,63,Shivansh Oza,Credit Analyst,2015-01-25,45370.52,Active
+84,62,Yashasvi Suresh,Operations Officer,2015-11-16,57517.37,Active
+85,12,George Sampath,Teller,2025-09-17,34818.7,Active
+86,89,Chaitanya Aggarwal,Investment Advisor,2017-04-11,53098.55,Leave
+87,1,Adweta Edwin,Operations Officer,2024-03-18,45448.69,Active
+88,67,Prisha Andra,Fraud Analyst,2013-07-04,117391.35,Active
+89,86,Manthan Banik,Risk Analyst,2025-10-19,47192.89,Active
+90,94,Manbir Sani,Branch Manager,2013-10-08,54601.03,Active
+91,16,Darika Patla,Fraud Analyst,2025-02-22,76472.18,Active
+92,94,Ishita Kade,Teller,2023-03-17,73862.74,Active
+93,10,Harshil Pandya,Customer Service Officer,2024-11-15,51327.63,Active
+94,19,Mohammed Khalsa,Fraud Analyst,2026-04-24,62677.59,Active
+95,69,Peter Sachar,Branch Manager,2012-01-10,73036.82,Leave
+96,92,Gaurangi Sabharwal,Branch Manager,2025-04-01,63061.37,Active
+97,50,Amara Dutta,Credit Analyst,2024-12-30,48276.65,Active
+98,12,Lavanya Barad,Credit Analyst,2026-03-18,125362.04,Active
+99,40,Tristan Iyengar,Fraud Analyst,2025-06-30,47375.42,Active
+100,46,Inaya Mody,Loan Officer,2025-07-24,44186.32,Active
+101,35,Udant Bajwa,Operations Officer,2022-10-31,55667.8,Active
+102,90,Mohini Narasimhan,Loan Officer,2016-05-05,50385.04,Active
+103,7,Arya Panchal,Branch Manager,2022-07-08,41562.91,Leave
+104,36,Garima Bala,Risk Analyst,2013-07-25,95250.46,Active
+105,36,Pranav Lanka,Fraud Analyst,2012-04-02,107732.54,Active
+106,99,Radha Pai,Branch Manager,2023-12-31,31068.07,Active
+107,96,Rajata Vaidya,Investment Advisor,2013-07-27,63778.56,Active
+108,55,Ranveer Kumar,Operations Officer,2012-05-10,87104.56,Active
+109,30,Aarav Venkatesh,Relationship Manager,2025-04-28,53418.34,Active
+110,13,Januja Sankar,Credit Analyst,2012-10-16,187005.78,Active
+111,12,Dipta Dash,Risk Analyst,2023-11-06,51846.79,Resigned
+112,95,Yashica More,Branch Manager,2022-12-12,84491.67,Active
+113,16,Eta Rau,Teller,2023-06-19,64258.39,Active
+114,85,Joshua Handa,Branch Manager,2018-10-03,45176.94,Leave
+115,16,Owen Mitra,Risk Analyst,2018-07-06,112959.35,Resigned
+116,9,Daksha Mangat,Fraud Analyst,2015-03-07,68982.22,Active
+117,17,Ekanta Shroff,Customer Service Officer,2019-02-13,65234.14,Active
+118,50,Tanay Vaidya,Fraud Analyst,2019-08-27,50139.78,Active
+119,29,Frado Mander,Teller,2020-05-15,69977.39,Active
+120,86,Girik Keer,Branch Manager,2023-01-18,35896.14,Active
+121,71,Umang Issac,Risk Analyst,2014-02-09,32527.79,Active
+122,19,Chakradhar Konda,Customer Service Officer,2019-09-08,87056.91,Active
+123,74,Tamanna Sachdeva,Fraud Analyst,2022-04-26,46466.33,Active
+124,92,Leena Talwar,Fraud Analyst,2018-05-27,31053.83,Active
+125,72,Manbir Ahluwalia,Risk Analyst,2024-05-18,80342.97,Active
+126,63,Pavani Kanda,Relationship Manager,2014-08-05,89024.75,Active
+127,33,Chandresh Krish,Customer Service Officer,2026-01-13,96334.89,Resigned
+128,45,Tanmayi Deol,Teller,2025-03-27,54164.38,Active
+129,85,Edhitha Savant,Teller,2022-01-09,80438.72,Active
+130,47,Sanaya Dutt,Risk Analyst,2024-04-02,41224.48,Active
+131,15,Shivani Lad,Relationship Manager,2024-05-23,91139.27,Active
+132,57,Aradhana Verma,Fraud Analyst,2019-11-06,113055.12,Resigned
+133,72,Anvi Sarraf,Customer Service Officer,2012-12-02,128853.45,Active
+134,92,Wahab Magar,Branch Manager,2017-04-25,45120.66,Active
+135,58,Faris Devi,Loan Officer,2014-03-03,45279.86,Active
+136,27,Leela Dua,Customer Service Officer,2023-08-15,37487.18,Active
+137,73,Devansh Sachdeva,Relationship Manager,2018-07-15,109613.04,Active
+138,13,Unnati Sagar,Credit Analyst,2012-08-29,35510.71,Active
+139,82,Osha Ramachandran,Credit Analyst,2024-09-12,77628.28,Active
+140,56,Lajita Sood,Loan Officer,2011-09-14,100391.27,Active
+141,5,Chanchal Ramakrishnan,Operations Officer,2026-02-14,97719.74,Active
+142,49,Thomas Sura,Teller,2015-05-03,51195.16,Active
+143,89,Rajata Sunder,Customer Service Officer,2012-02-05,65547.7,Active
+144,99,Gayathri Ravel,Relationship Manager,2023-12-03,92169.08,Active
+145,55,Unni Datta,Customer Service Officer,2022-03-10,67498.45,Active
+146,3,Meera Bala,Teller,2013-01-11,116895.47,Active
+147,53,Krishna Shenoy,Teller,2014-09-11,47786.75,Active
+148,73,Abha Raghavan,Relationship Manager,2017-03-04,96238.97,Resigned
+149,77,Suhani Narain,Branch Manager,2017-05-06,76808.09,Active
+150,92,Arunima Sama,Investment Advisor,2015-11-23,40391.53,Active
+151,34,Upma Bahl,Customer Service Officer,2024-05-06,62330.21,Active
+152,54,Inaya Kapur,Teller,2022-08-30,103047.16,Active
+153,57,Banjeet Balasubramanian,Relationship Manager,2015-10-23,75047.88,Active
+154,51,Anmol Dua,Operations Officer,2015-08-30,96666.39,Active
+155,98,Urvashi Contractor,Customer Service Officer,2021-03-13,105208.82,Active
+156,51,Udyati Kunda,Loan Officer,2024-08-25,93516.92,Active
+157,38,Oliver Contractor,Relationship Manager,2024-11-01,50496.03,Active
+158,51,Deepa Chokshi,Relationship Manager,2021-06-12,95516.66,Leave
+159,4,Devika Prashad,Fraud Analyst,2018-05-08,59566.5,Active
+160,88,Faqid Kibe,Teller,2013-05-03,79121.66,Resigned
+161,53,Jai Barman,Loan Officer,2017-07-05,88693.08,Active
+162,23,Kamala Biswas,Operations Officer,2020-03-17,36155.4,Active
+163,75,Advik Salvi,Customer Service Officer,2025-08-04,43572.48,Active
+164,25,Hitesh Sant,Credit Analyst,2017-10-06,72864.85,Active
+165,27,Michael Saran,Loan Officer,2014-08-07,37123.94,Active
+166,82,Veda Shroff,Fraud Analyst,2019-01-05,71427.44,Active
+167,21,Ekantika Korpal,Customer Service Officer,2025-09-25,57672.71,Active
+168,34,Arya Seshadri,Relationship Manager,2015-10-02,41675.35,Active
+169,45,Ladli Nayar,Risk Analyst,2012-02-03,59008.15,Active
+170,56,Ekta Gopal,Relationship Manager,2019-11-24,43693.71,Active
+171,1,Isha Kuruvilla,Investment Advisor,2017-05-23,46270.31,Active
+172,56,Anya Anne,Customer Service Officer,2020-05-23,73337.44,Active
+173,28,Frederick Khurana,Operations Officer,2023-11-08,111664.63,Active
+174,59,Vrinda Khosla,Investment Advisor,2023-05-09,65405.91,Active
+175,3,Vritti Sem,Operations Officer,2025-02-03,175888.98,Active
+176,38,Girik Menon,Credit Analyst,2015-05-16,88596.82,Active
+177,64,Yagnesh Mohan,Risk Analyst,2022-11-24,45712.16,Active
+178,17,Urvashi Wali,Operations Officer,2017-06-14,73252.02,Active
+179,44,Ganga Pandey,Risk Analyst,2023-07-24,64626.38,Active
+180,67,Anika Mohan,Risk Analyst,2015-11-18,82347.01,Active
+181,100,Jai Hans,Customer Service Officer,2016-12-20,102037.27,Active
+182,83,Qasim Handa,Fraud Analyst,2015-04-14,72302.83,Active
+183,6,Aradhana Vohra,Branch Manager,2021-10-03,82798.24,Active
+184,70,Harish Hari,Teller,2016-08-22,116809.05,Leave
+185,53,Jalsa Gola,Customer Service Officer,2016-09-29,48243.6,Active
+186,94,Jonathan Mahal,Investment Advisor,2012-05-17,38538.2,Active
+187,3,Brinda Date,Credit Analyst,2022-06-15,79151.54,Active
+188,94,Harshil Arora,Investment Advisor,2021-05-15,62995.68,Active
+189,62,Upasna Srinivas,Risk Analyst,2019-02-04,66177.32,Active
+190,45,Qarin Behl,Teller,2015-11-24,111757.82,Active
+191,68,Ishaan Bhattacharyya,Credit Analyst,2018-06-02,74922.06,Active
+192,1,Ethan Bera,Fraud Analyst,2014-03-08,45018.35,Active
+193,38,Daksha Chada,Teller,2015-10-29,78236.24,Active
+194,3,Omaja Kara,Relationship Manager,2024-10-18,60100.86,Active
+195,10,Shravya Savant,Teller,2016-08-29,85152.79,Active
+196,73,Dalaja Bhasin,Relationship Manager,2021-12-22,48927.16,Active
+197,15,Sarthak Kakar,Investment Advisor,2016-02-08,93989.86,Active
+198,69,Naksh Khatri,Loan Officer,2014-07-24,70444.53,Active
+199,75,Naksh Agate,Risk Analyst,2018-07-21,50114.11,Leave
+200,64,Upma Manne,Customer Service Officer,2012-02-27,38768.21,Active
+201,93,Bhavya Mandal,Investment Advisor,2023-07-25,72126.08,Active
+202,35,Ekavir Kaur,Teller,2016-02-07,76398.85,Active
+203,83,Pavani Contractor,Fraud Analyst,2020-11-12,54398.1,Active
+204,18,Manthan Lata,Investment Advisor,2025-08-31,74075.48,Active
+205,14,Ekbal Bhasin,Credit Analyst,2014-06-05,76708.94,Active
+206,97,Bhavya Sarna,Risk Analyst,2013-09-19,129697.19,Active
+207,66,Daksha Rau,Teller,2016-03-26,65020.97,Active
+208,6,Raksha Buch,Credit Analyst,2021-10-11,78417.53,Active
+209,72,Rachana Naidu,Fraud Analyst,2021-11-15,67404.95,Active
+210,94,Atharv Chand,Operations Officer,2015-07-01,51774.3,Active
+211,29,Amruta Baria,Customer Service Officer,2024-08-01,80005.74,Active
+212,33,Upma Venkataraman,Branch Manager,2022-09-08,85260.22,Active
+213,10,Arunima Golla,Teller,2021-07-24,53016.88,Active
+214,31,Vyanjana Chand,Branch Manager,2019-08-07,80033.34,Active
+215,52,Nilima Nath,Investment Advisor,2017-01-23,181871.33,Active
+216,68,Naveen Narayan,Loan Officer,2018-08-09,63817.59,Active
+217,36,Bhavya Rattan,Branch Manager,2025-06-11,76982.58,Active
+218,74,Suhani Chakrabarti,Investment Advisor,2016-12-14,103637.87,Active
+219,72,Ekiya D’Alia,Operations Officer,2024-09-29,75284.38,Active
+220,13,Yoshita Agarwal,Investment Advisor,2022-10-16,58720.57,Active
+221,89,Odika Bhagat,Relationship Manager,2014-10-17,62211.07,Active
+222,37,Wishi Sathe,Investment Advisor,2024-07-13,77189.47,Active
+223,92,Samar Loke,Fraud Analyst,2020-12-11,48069.51,Active
+224,87,Bhavna Sarma,Risk Analyst,2023-06-25,50342.94,Active
+225,54,Jairaj Balakrishnan,Operations Officer,2022-04-27,72273.88,Active
+226,53,Nathan Mukhopadhyay,Risk Analyst,2020-12-21,37214.4,Active
+227,57,Nikita Chander,Teller,2015-06-05,43463.01,Active
+228,90,Triya Dalal,Customer Service Officer,2022-08-15,65260.11,Active
+229,82,Wishi Manne,Loan Officer,2020-04-05,63352.75,Active
+230,51,Ojasvi Subramanian,Customer Service Officer,2019-08-21,78544.09,Active
+231,71,Tanmayi Dhillon,Branch Manager,2018-02-16,79344.44,Active
+232,63,Yashoda Deshpande,Customer Service Officer,2026-04-20,56668.58,Active
+233,85,Anya Sachdeva,Relationship Manager,2017-05-20,54496.35,Active
+234,61,Aarnav Mandal,Investment Advisor,2023-12-15,40648.45,Active
+235,1,Vrishti Dixit,Operations Officer,2019-03-14,96028.15,Active
+236,30,Hemani Natarajan,Relationship Manager,2020-12-28,53350.25,Active
+237,30,Tamanna Nagy,Investment Advisor,2026-05-25,33598.69,Active
+238,66,William Rajagopal,Customer Service Officer,2015-07-30,76521.71,Active
+239,94,Caleb Nadkarni,Customer Service Officer,2024-04-09,52850.04,Active
+240,55,Lakshmi Raju,Operations Officer,2022-11-23,65082.03,Active
+241,10,Warhi Bansal,Fraud Analyst,2013-10-01,61222.6,Active
+242,55,Harish Sarraf,Loan Officer,2013-04-19,83535.75,Active
+243,8,Alexander Dhawan,Relationship Manager,2018-07-30,33932.1,Active
+244,72,Falan Singh,Customer Service Officer,2024-11-24,67463.77,Active
+245,67,Hamsini Rao,Credit Analyst,2022-08-28,39036.61,Active
+246,96,Falguni Walla,Investment Advisor,2018-01-25,76845.29,Active
+247,46,Vinaya Banik,Branch Manager,2022-02-08,33102.26,Active
+248,74,Wahab Mani,Operations Officer,2015-06-22,43687.33,Active
+249,85,Radha Chaudhari,Credit Analyst,2024-07-15,96623.72,Active
+250,69,Sachi Ganesan,Branch Manager,2023-05-30,83733.03,Active
+251,2,Ayush Batra,Credit Analyst,2017-02-13,34723.77,Active
+252,38,Chaaya Parmer,Risk Analyst,2017-12-24,74020.95,Active
+253,44,Madhav Konda,Credit Analyst,2020-08-21,84131.64,Active
+254,81,Pranit Garde,Loan Officer,2014-07-31,59228.88,Active
+255,14,Lavanya Khosla,Risk Analyst,2020-01-26,127304.08,Active
+256,22,Vincent Shenoy,Branch Manager,2022-06-15,75757.3,Active
+257,29,Tripti Kumer,Loan Officer,2022-12-12,33848.25,Active
+258,25,Udyati Mani,Customer Service Officer,2023-02-17,72631.38,Active
+259,87,Ethan Sathe,Teller,2017-06-25,105576.04,Active
+260,71,Panini Krishna,Fraud Analyst,2019-05-17,103743.12,Active
+261,26,Rushil Rajagopalan,Teller,2026-02-13,68477.8,Active
+262,54,Hredhaan Khalsa,Relationship Manager,2018-02-02,26123.68,Active
+263,36,Chakrika Merchant,Credit Analyst,2011-12-23,48337.78,Active
+264,36,Anvi Anand,Relationship Manager,2021-03-25,36595.06,Active
+265,99,Watika Mangat,Customer Service Officer,2024-10-19,124052.5,Leave
+266,69,Indira Kanda,Investment Advisor,2022-06-07,53820.31,Active
+267,36,Zashil Devan,Branch Manager,2022-04-16,66121.24,Active
+268,98,Balveer More,Risk Analyst,2025-01-07,54273.12,Active
+269,73,Bahadurjit Patla,Risk Analyst,2024-01-23,41520.0,Active
+270,42,Gautam Merchant,Risk Analyst,2017-02-28,32106.22,Active
+271,3,Parth Iyer,Loan Officer,2013-11-07,74708.02,Active
+272,98,Yachana Mahajan,Credit Analyst,2025-09-24,84153.19,Active
+273,59,Aarini Subramaniam,Relationship Manager,2025-04-28,37730.66,Active
+274,88,Hamsini Contractor,Credit Analyst,2019-07-28,55315.82,Active
+275,21,Lohit Kara,Relationship Manager,2026-03-27,93919.57,Active
+276,25,Jasmit Chana,Loan Officer,2025-01-20,86835.73,Active
+277,15,Akshay Lalla,Fraud Analyst,2020-09-24,62989.8,Active
+278,16,Suhani Pillay,Operations Officer,2023-01-18,52372.19,Resigned
+279,26,Lakshmi Prabhu,Teller,2013-06-12,30231.19,Active
+280,7,Urishilla Bakshi,Risk Analyst,2022-02-21,54294.34,Active
+281,72,Timothy Bhatnagar,Loan Officer,2022-05-31,96268.83,Active
+282,39,Chasmum Rege,Credit Analyst,2013-08-02,52796.33,Active
+283,17,Chakradev Barad,Investment Advisor,2016-10-12,51427.4,Active
+284,37,Jack Chatterjee,Investment Advisor,2015-08-06,53733.38,Active
+285,87,Lipika Setty,Operations Officer,2017-11-30,69175.33,Active
+286,25,Mohammed Sachdeva,Loan Officer,2022-09-29,30473.43,Active
+287,42,Vrishti Reddy,Loan Officer,2016-05-12,76856.08,Active
+288,39,Kamala Kalla,Branch Manager,2019-02-23,60867.58,Active
+289,93,Warinder Patil,Teller,2013-04-17,148627.23,Active
+290,10,Jagrati Bhat,Risk Analyst,2018-05-17,47684.9,Active
+291,84,Ranveer Das,Teller,2026-01-11,31211.06,Active
+292,18,Gavin Kala,Teller,2022-07-09,53911.09,Active
+293,65,Chandresh Nath,Teller,2015-09-30,59151.68,Active
+294,88,Samesh Biswas,Branch Manager,2025-09-20,64989.12,Active
+295,37,Tarak Kaul,Teller,2017-03-11,56500.06,Active
+296,46,Aarnav Malhotra,Investment Advisor,2026-03-16,44848.49,Active
+297,77,Kalpit Zachariah,Loan Officer,2015-11-13,90082.93,Active
+298,74,Imaran Bal,Loan Officer,2013-11-04,105597.29,Active
+299,41,Ishita Khanna,Relationship Manager,2021-08-15,71707.13,Active
+300,9,Amol Ghosh,Credit Analyst,2016-02-12,90940.77,Active
+301,61,Jonathan Sama,Fraud Analyst,2020-07-20,31546.4,Resigned
+302,3,Devansh Soni,Credit Analyst,2019-03-25,181421.82,Active
+303,89,Yochana Chopra,Risk Analyst,2019-04-17,27282.93,Active
+304,29,Caleb Verma,Risk Analyst,2016-09-25,44027.52,Active
+305,98,Azaan Bhat,Fraud Analyst,2019-10-02,72419.05,Active
+306,59,Pooja Chokshi,Loan Officer,2019-12-11,87488.57,Active
+307,79,Ethan Buch,Customer Service Officer,2017-01-30,81587.82,Active
+308,70,Dominic Date,Teller,2016-04-12,42927.19,Active
+309,77,Lakshmi Wali,Teller,2016-08-14,60787.84,Active
+310,67,Yashasvi Sani,Investment Advisor,2013-04-16,85876.52,Active
+311,40,Tanveer Sani,Relationship Manager,2019-04-14,65121.36,Active
+312,97,Odika Nori,Risk Analyst,2025-09-05,66632.25,Active
+313,45,Mohini Sagar,Risk Analyst,2024-01-06,43265.28,Active
+314,45,Dhriti Sane,Fraud Analyst,2016-12-01,73719.98,Active
+315,31,Kavya Dua,Operations Officer,2023-04-15,64884.87,Active
+316,2,Ekalinga Chand,Operations Officer,2025-10-02,56762.72,Active
+317,13,Girik Sankaran,Relationship Manager,2013-03-31,42323.04,Active
+318,64,Kalpit Bhasin,Investment Advisor,2021-07-31,63198.92,Active
+319,70,Jason Roy,Credit Analyst,2017-08-14,65335.07,Resigned
+320,63,Charan Mani,Teller,2021-10-25,103996.1,Active
+321,68,Indira Chawla,Branch Manager,2021-06-08,51212.98,Active
+322,17,Mohammed Subramaniam,Customer Service Officer,2015-06-02,64082.81,Active
+323,65,Inaya Pillai,Customer Service Officer,2013-07-22,50612.5,Active
+324,64,Upkaar Sanghvi,Branch Manager,2025-12-24,62613.17,Active
+325,52,Amara Balakrishnan,Operations Officer,2014-09-03,89126.47,Active
+326,87,Dayamai Nori,Fraud Analyst,2017-07-29,51024.51,Active
+327,98,Pratyush Dhar,Branch Manager,2021-03-27,36069.22,Active
+328,29,Ekaraj Dhar,Branch Manager,2024-03-17,27734.1,Active
+329,47,Gavin Wali,Branch Manager,2015-04-06,38249.79,Resigned
+330,56,Oni Setty,Teller,2017-05-27,81256.01,Active
+331,59,Kala Muni,Branch Manager,2023-11-17,35103.85,Resigned
+332,1,Frado Ben,Fraud Analyst,2014-04-01,46996.68,Active
+333,15,Chandran Bumb,Loan Officer,2016-03-25,38636.83,Active
+334,80,Panini Sunder,Investment Advisor,2021-12-06,99242.1,Active
+335,89,Oeshi Mahajan,Relationship Manager,2015-04-09,105797.46,Active
+336,93,Hemani Sani,Teller,2013-06-28,25123.19,Active
+337,3,Vidhi Vyas,Branch Manager,2022-12-14,58022.87,Active
+338,17,Chakradev Kannan,Branch Manager,2018-04-30,99115.49,Active
+339,38,Abhimanyu Jayaraman,Risk Analyst,2016-09-23,69956.53,Active
+340,2,Laksh Kumer,Investment Advisor,2016-07-11,42261.24,Active
+341,64,Jagdish Amble,Relationship Manager,2020-01-24,51107.82,Active
+342,32,Parth Dayal,Risk Analyst,2018-01-26,25633.16,Active
+343,41,Xiti Pandya,Investment Advisor,2012-10-29,83195.36,Active
+344,76,Brijesh Sarin,Risk Analyst,2011-12-03,80507.43,Active
+345,79,Faras Munshi,Customer Service Officer,2021-05-25,101335.23,Active
+346,32,Nidhi Sahni,Loan Officer,2016-07-11,81395.62,Active
+347,2,Nidhi Bail,Relationship Manager,2017-02-16,54912.04,Active
+348,26,Triveni Pathak,Customer Service Officer,2013-02-06,47160.2,Active
+349,38,Hitesh Kohli,Operations Officer,2019-01-06,74700.39,Active
+350,44,Farhan Randhawa,Relationship Manager,2026-05-31,42507.32,Resigned
+351,61,Harinakshi Kant,Credit Analyst,2017-04-08,64453.47,Active
+352,95,Faraj Uppal,Risk Analyst,2022-05-17,81479.25,Active
+353,8,Yashvi Hari,Investment Advisor,2024-10-22,81905.19,Active
+354,7,Indali Divan,Branch Manager,2015-08-16,74780.33,Active
+355,6,Madhav Kunda,Fraud Analyst,2014-12-16,57798.14,Active
+356,60,Michael Borra,Fraud Analyst,2014-08-13,101163.94,Active
+357,82,Ucchal Sen,Customer Service Officer,2023-03-11,109784.58,Active
+358,19,Diya Dora,Operations Officer,2019-01-31,87227.85,Active
+359,45,Upasna Sathe,Investment Advisor,2022-05-06,56099.39,Active
+360,44,Anvi Bhalla,Loan Officer,2017-08-03,86246.76,Active
+361,83,Dayita Shenoy,Customer Service Officer,2019-04-17,71474.56,Active
+362,28,Dakshesh Pillay,Fraud Analyst,2025-10-01,29759.57,Active
+363,61,Faraj Chana,Customer Service Officer,2022-01-24,87716.57,Active
+364,61,Turvi Barman,Investment Advisor,2019-04-03,57598.01,Active
+365,4,Ekanta Soni,Branch Manager,2020-02-18,177496.04,Active
+366,36,David Seshadri,Fraud Analyst,2013-05-13,67615.39,Active
+367,100,Frado Thaman,Loan Officer,2022-08-05,94933.34,Active
+368,58,Balveer Kota,Customer Service Officer,2023-08-23,69825.6,Active
+369,3,Reva Viswanathan,Loan Officer,2020-06-30,96943.27,Active
+370,8,Januja Pradhan,Branch Manager,2016-05-31,78586.53,Active
+371,87,Nilima Nigam,Fraud Analyst,2023-02-25,67059.13,Active
+372,62,Gaurika Bhatti,Customer Service Officer,2017-03-18,54066.96,Active
+373,14,Libni Mander,Investment Advisor,2015-11-21,112881.31,Active
+374,17,Gauri Bumb,Risk Analyst,2021-07-08,81605.69,Resigned
+375,66,Inaya Mukherjee,Credit Analyst,2022-10-06,38057.81,Active
+376,56,Kai Chad,Branch Manager,2016-11-13,89885.27,Resigned
+377,47,Falguni Datta,Fraud Analyst,2023-01-01,28758.68,Active
+378,1,Pallavi Trivedi,Teller,2017-10-04,65444.7,Active
+379,43,Janani More,Relationship Manager,2014-09-02,46179.58,Active
+380,37,Harita Sunder,Teller,2014-11-14,37925.18,Active
+381,49,Laksh Dubey,Relationship Manager,2012-11-30,50832.97,Active
+382,6,Harrison Tripathi,Branch Manager,2024-09-19,112072.4,Active
+383,2,Gayathri Deep,Risk Analyst,2021-10-06,77239.81,Active
+384,35,Mitesh Gaba,Customer Service Officer,2014-09-05,60972.67,Active
+385,59,Raksha Bassi,Teller,2018-08-04,64012.15,Active
+386,20,Wazir Sawhney,Teller,2021-12-28,43778.71,Active
+387,43,Saumya Kaur,Loan Officer,2020-09-08,34871.93,Active
+388,23,Dayamai Singh,Customer Service Officer,2025-10-23,71410.5,Active
+389,45,Jhalak Sastry,Branch Manager,2019-06-16,43111.12,Active
+390,85,Lavanya Thakkar,Relationship Manager,2020-07-29,75018.79,Active
+391,29,Neel Iyengar,Customer Service Officer,2025-03-26,56008.64,Active
+392,55,Zashil Ben,Operations Officer,2022-07-06,64608.52,Leave
+393,74,Kamya Chauhan,Loan Officer,2023-09-15,75656.89,Active
+394,76,Bhavani Chacko,Investment Advisor,2024-08-01,49965.4,Active
+395,68,Anjali Sengupta,Relationship Manager,2020-05-02,74332.98,Active
+396,48,Rajeshri Chand,Teller,2015-05-19,62903.86,Active
+397,62,Ikshita Bala,Loan Officer,2018-08-30,58545.04,Active
+398,73,Meghana Thakkar,Teller,2017-12-18,67175.7,Active
+399,75,Libni Bumb,Branch Manager,2017-12-24,91868.78,Leave
+400,19,Ayaan Nagar,Customer Service Officer,2013-04-15,76342.24,Active
+401,13,Madhav Devan,Risk Analyst,2012-04-03,78941.71,Active
+402,54,Urmi Dewan,Operations Officer,2024-07-06,52208.52,Active
+403,15,Saumya Ahluwalia,Relationship Manager,2012-12-13,38280.35,Active
+404,60,Aahana Kale,Risk Analyst,2025-10-22,33681.05,Active
+405,96,Pallavi Choudhry,Relationship Manager,2024-10-21,53848.99,Active
+406,72,Wazir Mitra,Fraud Analyst,2013-09-04,59151.3,Active
+407,9,William Saini,Credit Analyst,2022-06-22,74446.71,Active
+408,28,Dev Choudhry,Teller,2025-11-01,61110.59,Active
+409,25,Amol Varma,Teller,2021-05-21,99298.39,Active
+410,15,Maanas Manne,Operations Officer,2018-11-27,31620.96,Active
+411,43,Ira Khosla,Teller,2021-04-23,78090.6,Active
+412,75,Rachit Chada,Credit Analyst,2020-07-04,66066.49,Active
+413,21,Ekansh Vora,Customer Service Officer,2020-11-09,50848.95,Active
+414,52,Madhavi Singhal,Credit Analyst,2012-05-05,51556.64,Active
+415,36,Kashvi Kulkarni,Loan Officer,2024-04-25,66880.99,Active
+416,94,Ishanvi Bir,Operations Officer,2017-06-20,58498.91,Active
+417,74,Hemang Natarajan,Operations Officer,2013-11-14,114269.99,Active
+418,42,Indira Nigam,Fraud Analyst,2025-06-10,64718.28,Active
+419,84,Ucchal Srinivas,Branch Manager,2022-05-08,70753.08,Active
+420,13,Krishna Bhatnagar,Operations Officer,2023-10-14,26986.19,Active
+421,21,Balhaar Memon,Customer Service Officer,2015-01-12,95210.37,Active
+422,88,Ryan Barman,Fraud Analyst,2016-12-21,69404.33,Active
+423,42,Yutika Rao,Investment Advisor,2025-06-22,66893.68,Active
+424,68,Zehaan Bansal,Loan Officer,2024-06-01,101557.65,Active
+425,100,Bhavika Parikh,Operations Officer,2026-04-09,47300.6,Active
+426,97,Garima Mahajan,Operations Officer,2013-09-20,66015.71,Active
+427,47,Rajeshri Ratta,Relationship Manager,2024-03-31,74743.83,Active
+428,81,Libni Nori,Customer Service Officer,2014-10-12,69205.09,Active
+429,15,Widisha Pillai,Credit Analyst,2025-03-02,83898.05,Active
+430,78,Fitan Samra,Risk Analyst,2012-12-11,129791.3,Active
+431,2,Pranit Memon,Credit Analyst,2017-01-24,107505.55,Active
+432,39,Fariq Narang,Risk Analyst,2022-11-05,82704.25,Active
+433,24,Damini Sehgal,Credit Analyst,2021-11-08,33618.14,Active
+434,36,Ojas Sawhney,Investment Advisor,2017-08-01,86336.46,Active
+435,36,Brijesh Pandit,Credit Analyst,2022-01-23,33172.04,Active
+436,68,Anvi Bhandari,Relationship Manager,2012-11-17,38615.4,Active
+437,60,Januja Varghese,Teller,2025-03-25,64129.43,Active
+438,72,Azaan Dhar,Loan Officer,2026-01-15,48500.99,Active
+439,44,Bakhshi Date,Fraud Analyst,2012-09-29,92012.91,Resigned
+440,2,Jeevika Pathak,Customer Service Officer,2018-02-11,39207.59,Active
+441,98,Mitesh Sengupta,Operations Officer,2017-11-30,46781.63,Active
+442,36,Sachi Bose,Teller,2021-05-14,58716.78,Active
+443,31,Jeevika Rao,Risk Analyst,2016-12-13,53402.2,Active
+444,55,Zaid Comar,Relationship Manager,2012-01-17,39481.34,Active
+445,8,Xalak Vasa,Branch Manager,2018-03-09,26437.79,Active
+446,5,Adweta Lad,Branch Manager,2023-07-31,50274.13,Leave
+447,65,Tanish Mangal,Risk Analyst,2023-05-30,47713.43,Active
+448,72,Ryan Das,Operations Officer,2013-11-29,65886.03,Active
+449,16,Siya Gera,Customer Service Officer,2023-09-27,54079.9,Active
+450,85,Gagan Nagarajan,Loan Officer,2022-12-18,51909.75,Leave
+451,73,Dhruv Mannan,Relationship Manager,2016-09-14,44496.48,Active
+452,68,Owen Pathak,Loan Officer,2020-04-04,34188.45,Active
+453,35,Jairaj Iyer,Customer Service Officer,2025-01-28,65379.04,Active
+454,12,Warjas Tak,Relationship Manager,2012-01-19,59841.66,Active
+455,82,Jyoti Sibal,Credit Analyst,2025-04-10,68225.29,Active
+456,67,Gabriel Bhatti,Operations Officer,2016-11-11,120653.86,Active
+457,73,Varenya Vora,Teller,2018-08-04,76825.74,Active
+458,54,Ethan Dass,Relationship Manager,2016-12-29,62447.34,Leave
+459,14,Shivani Shukla,Relationship Manager,2023-03-05,97399.14,Active
+460,3,Kabir Gopal,Credit Analyst,2024-08-30,72782.7,Active
+461,25,Rachita Thakkar,Teller,2026-05-16,58619.21,Active
+462,79,Jeet Vasa,Branch Manager,2014-03-16,41436.06,Active
+463,12,Nitesh Edwin,Branch Manager,2017-02-02,43098.03,Active
+464,93,Hiral Venkataraman,Loan Officer,2016-06-08,56929.52,Active
+465,83,Zashil Hegde,Credit Analyst,2022-05-29,37574.07,Active
+466,11,Jeremiah Mitter,Loan Officer,2022-01-20,66000.34,Active
+467,56,Yadavi Ganguly,Risk Analyst,2021-09-02,38918.64,Active
+468,28,Onveer Nazareth,Credit Analyst,2025-12-08,54659.64,Active
+469,16,Ayush Bumb,Relationship Manager,2012-05-17,63335.48,Active
+470,52,Shivansh Saha,Branch Manager,2022-02-12,59938.01,Active
+471,38,Widisha Mann,Operations Officer,2022-07-10,81387.55,Active
+472,99,Vasudha Konda,Operations Officer,2025-04-17,75791.98,Active
+473,86,Chameli Setty,Operations Officer,2012-11-04,81432.13,Active
+474,2,Nakul Sarraf,Teller,2018-09-03,78180.02,Active
+475,79,Ucchal Jani,Teller,2017-05-22,49454.8,Active
+476,65,Dhriti Nagar,Teller,2024-02-04,68674.37,Active
+477,85,Mohini De,Teller,2024-07-17,42279.72,Active
+478,63,Yutika Cherian,Teller,2017-01-11,59229.28,Active
+479,55,Unnati Das,Teller,2016-02-26,39435.79,Active
+480,82,Yug Dhaliwal,Investment Advisor,2013-04-01,59039.92,Active
+481,93,Bina Rajagopalan,Branch Manager,2026-04-21,53772.46,Resigned
+482,64,Yuvraj Dutta,Relationship Manager,2025-06-10,85746.8,Active
+483,41,Dhriti Gupta,Relationship Manager,2024-08-01,67091.45,Active
+484,21,Wishi Varma,Operations Officer,2019-07-18,56480.27,Active
+485,59,Darika Tank,Customer Service Officer,2011-12-31,94429.56,Active
+486,88,Maya Tiwari,Credit Analyst,2019-05-20,103417.44,Active
+487,44,Tanveer Pandit,Relationship Manager,2012-06-06,48459.39,Active
+488,87,Baghyawati Talwar,Relationship Manager,2021-10-07,58306.21,Active
+489,24,Bhavika Yadav,Credit Analyst,2011-09-28,45212.44,Active
+490,11,Raagini Desai,Branch Manager,2016-02-07,94332.77,Active
+491,7,Neha Pau,Credit Analyst,2012-05-16,51123.86,Active
+492,94,Charan Hayer,Customer Service Officer,2017-10-08,51399.37,Active
+493,64,Ethan Raju,Fraud Analyst,2020-03-07,74050.0,Active
+494,50,Ati Dani,Credit Analyst,2013-10-16,94741.33,Active
+495,68,Meera Prakash,Risk Analyst,2025-02-15,70232.1,Active
+496,10,Jasmit Dhawan,Teller,2014-12-27,127739.82,Active
+497,91,Xiti Baria,Investment Advisor,2012-05-16,59108.4,Leave
+498,16,Laksh Nath,Loan Officer,2025-04-12,41968.53,Active
+499,15,Zilmil Shan,Relationship Manager,2014-02-19,41536.04,Active
+500,89,Falak Nagar,Loan Officer,2014-05-14,30084.8,Leave
+501,30,Chandani Nayar,Branch Manager,2020-03-26,55412.54,Active
+502,21,Chandani Soman,Credit Analyst,2025-06-24,54345.41,Active
+503,94,Jyoti Narula,Operations Officer,2023-01-24,52971.41,Active
+504,21,Omaja Morar,Teller,2025-02-26,72570.67,Resigned
+505,46,Urvi Lanka,Investment Advisor,2022-10-03,38072.77,Active
+506,86,Charan Srinivasan,Customer Service Officer,2014-07-03,64987.36,Resigned
+507,22,Manbir Kibe,Loan Officer,2012-02-21,67028.4,Active
+508,50,Rayaan Bahl,Credit Analyst,2019-02-08,47154.48,Active
+509,44,Omya Doshi,Customer Service Officer,2018-08-18,133939.51,Active
+510,63,Nirja Thaker,Customer Service Officer,2024-10-14,87238.55,Active
+511,29,David Devi,Operations Officer,2020-06-04,85023.53,Active
+512,8,Ekta Sridhar,Fraud Analyst,2020-07-17,64328.58,Active
+513,72,Dipta Ghose,Relationship Manager,2019-06-04,72308.45,Active
+514,99,Irya Lalla,Fraud Analyst,2021-12-24,67478.9,Active
+515,89,Rehaan Koshy,Fraud Analyst,2016-05-07,78098.32,Active
+516,66,Umang Mishra,Risk Analyst,2024-09-20,73450.0,Active
+517,9,Sarthak Suresh,Branch Manager,2016-12-30,91027.16,Active
+518,12,Ikshita Mahal,Relationship Manager,2016-07-01,61640.73,Active
+519,34,Ladli Rana,Teller,2025-07-11,36045.96,Active
+520,70,Madhav Mannan,Investment Advisor,2012-04-26,40651.55,Active
+521,58,Farhan Pal,Branch Manager,2019-02-16,103497.99,Active
+522,99,Varenya Kala,Fraud Analyst,2015-01-15,38654.32,Active
+523,85,Anita Devan,Customer Service Officer,2013-06-17,35102.24,Active
+524,20,Xavier Bedi,Relationship Manager,2022-12-31,93144.23,Active
+525,4,Viraj Ben,Credit Analyst,2013-04-22,62583.51,Active
+526,4,Ganga Sodhi,Investment Advisor,2013-04-24,47062.04,Active
+527,34,Abdul Dugar,Loan Officer,2018-07-11,53786.42,Active
+528,63,Vansha Iyengar,Credit Analyst,2024-06-18,61264.62,Active
+529,76,Ekani Mangal,Fraud Analyst,2022-08-04,83427.98,Active
+530,48,Gaurav Kata,Branch Manager,2020-09-15,76016.98,Active
+531,55,Parth Sahni,Relationship Manager,2025-11-07,58166.32,Active
+532,47,Balhaar Ranganathan,Risk Analyst,2025-01-03,57376.4,Leave
+533,45,Quincy Mann,Relationship Manager,2026-07-08,114878.69,Active
+534,91,Aditya Misra,Customer Service Officer,2021-04-07,41075.14,Resigned
+535,75,Gautami Mane,Operations Officer,2019-05-02,115798.31,Active
+536,61,Krish Thaman,Fraud Analyst,2019-07-26,102758.33,Active
+537,77,Reyansh Chowdhury,Relationship Manager,2017-03-24,108060.42,Active
+538,51,Tara Kurian,Teller,2023-10-30,107568.0,Active
+539,35,Akshay Nazareth,Fraud Analyst,2025-01-20,71665.16,Active
+540,5,Reyansh Gill,Branch Manager,2021-12-30,49689.79,Active
+541,4,Prisha Varma,Operations Officer,2017-03-07,54394.6,Leave
+542,89,Nandini Chandran,Branch Manager,2014-09-30,42202.74,Active
+543,24,Vansha Naik,Fraud Analyst,2015-10-28,42542.92,Active
+544,92,Advika Rajagopal,Investment Advisor,2015-08-11,43811.01,Resigned
+545,16,Amara Narayan,Customer Service Officer,2016-09-27,89866.24,Active
+546,73,Advika Parsa,Branch Manager,2023-05-22,55063.71,Active
+547,84,David Dani,Loan Officer,2019-07-09,25629.93,Active
+548,15,Nathaniel Ravi,Loan Officer,2023-04-11,81586.24,Active
+549,75,Jacob Merchant,Branch Manager,2017-11-08,89852.7,Active
+550,14,Theodore Deol,Risk Analyst,2019-09-27,52474.36,Active
+551,21,Suhani Prakash,Loan Officer,2018-09-04,69989.47,Active
+552,49,Tejas Kota,Credit Analyst,2023-03-06,46810.13,Active
+553,85,Sanya Wable,Risk Analyst,2023-07-30,48408.42,Active
+554,86,Faras Choudhury,Operations Officer,2012-08-26,105901.34,Active
+555,24,Mason Gala,Loan Officer,2017-03-08,85325.08,Active
+556,49,Jackson Jha,Relationship Manager,2023-10-19,26917.94,Active
+557,70,Gavin Uppal,Loan Officer,2019-03-08,38437.19,Leave
+558,57,Sudiksha Deo,Loan Officer,2020-05-02,58671.28,Active
+559,16,Tanmayi Bhardwaj,Credit Analyst,2021-02-09,74362.27,Active
+560,40,Darika Bains,Customer Service Officer,2018-05-04,123022.61,Active
+561,10,Aarush Kamdar,Credit Analyst,2021-06-10,47758.51,Active
+562,68,Chakradev Sampath,Branch Manager,2017-06-18,45264.7,Active
+563,85,Darpan Biswas,Customer Service Officer,2019-08-20,50305.79,Leave
+564,40,Bhavini Rege,Fraud Analyst,2014-08-31,47052.71,Active
+565,63,Osha Prasad,Loan Officer,2018-02-09,58608.49,Active
+566,97,Krishna Prashad,Fraud Analyst,2012-12-19,46279.28,Active
+567,6,Ijaya Dani,Operations Officer,2014-08-21,86114.76,Active
+568,19,Joshua Kapoor,Teller,2025-10-21,71460.38,Resigned
+569,12,Arin Misra,Fraud Analyst,2019-06-25,54713.24,Active
+570,85,Ladli Karpe,Investment Advisor,2015-10-24,46383.12,Active
+571,47,Hiral Dubey,Investment Advisor,2016-04-16,22791.45,Active
+572,2,Isaiah Balay,Operations Officer,2025-05-16,86871.14,Active
+573,3,Amol Khosla,Loan Officer,2015-02-09,60449.46,Active
+574,8,Harrison Bandi,Teller,2019-03-14,38211.35,Active
+575,48,Yash Basu,Teller,2018-06-12,123239.36,Active
+576,32,Vivaan Zacharia,Risk Analyst,2015-04-20,41207.0,Active
+577,46,Logan Thakur,Operations Officer,2016-07-10,58228.23,Resigned
+578,21,Eiravati Nagi,Loan Officer,2015-08-20,70145.72,Active
+579,95,Luke Verma,Operations Officer,2015-05-13,68628.31,Active
+580,68,Charita Maharaj,Risk Analyst,2012-08-21,45691.64,Active
+581,26,Prisha Tandon,Teller,2012-05-26,70920.9,Active
+582,60,Lakshmi Vohra,Risk Analyst,2017-01-09,55138.56,Active
+583,47,Nilima Dixit,Risk Analyst,2016-09-14,57993.77,Active
+584,92,Qarin Yogi,Fraud Analyst,2019-08-29,27336.62,Active
+585,28,Umang Mital,Investment Advisor,2026-03-11,65203.69,Active
+586,34,Ubika Bhardwaj,Risk Analyst,2021-03-03,50986.6,Active
+587,82,Omaja Wagle,Fraud Analyst,2013-11-19,40145.04,Active
+588,17,Xavier Kumer,Teller,2015-01-23,121201.23,Active
+589,94,Farhan Sengupta,Credit Analyst,2026-01-05,53575.62,Active
+590,47,George Wason,Operations Officer,2023-12-06,47267.98,Active
+591,20,Charan Loyal,Relationship Manager,2018-01-07,50100.27,Active
+592,4,Elijah Guha,Fraud Analyst,2025-04-16,78600.7,Active
+593,38,Varenya Joshi,Teller,2026-05-24,71672.88,Active
+594,39,Chavvi Aurora,Risk Analyst,2015-03-17,63758.23,Active
+595,77,Jacob Srinivas,Loan Officer,2015-09-24,80881.47,Active
+596,59,Mekhala Khatri,Loan Officer,2020-12-29,67586.41,Active
+597,38,Barkha Rai,Branch Manager,2019-07-15,42909.66,Active
+598,78,Darika Lal,Branch Manager,2017-09-20,53837.96,Active
+599,40,Unnati Chaudhari,Investment Advisor,2025-04-05,68588.83,Resigned
+600,3,Ekaja Jani,Fraud Analyst,2017-11-28,46922.52,Active
+601,28,Odika Bath,Branch Manager,2021-03-04,60694.17,Active
+602,19,Madhav Babu,Branch Manager,2016-01-15,63196.9,Active
+603,38,Chakrika Dua,Teller,2014-12-10,43532.09,Active
+604,64,Victor Raghavan,Relationship Manager,2021-04-18,61830.54,Active
+605,89,Xalak Nazareth,Teller,2015-12-24,41407.25,Active
+606,68,Vritti Sharma,Branch Manager,2014-06-19,41203.11,Active
+607,2,Omkaar Dey,Risk Analyst,2023-11-09,39366.23,Resigned
+608,55,Qarin Bhargava,Relationship Manager,2020-07-07,38345.56,Active
+609,12,Falan Bava,Credit Analyst,2024-08-09,80686.21,Active
+610,21,Nitara Devan,Teller,2025-12-08,47118.39,Active
+611,67,Ekansh Dora,Relationship Manager,2011-10-04,63802.99,Active
+612,35,Yashasvi Shah,Relationship Manager,2017-12-13,108902.3,Active
+613,96,Vasudha Sura,Relationship Manager,2011-11-14,40451.22,Active
+614,52,Nisha Arora,Customer Service Officer,2011-11-20,57614.05,Active
+615,51,Bhavini Badal,Customer Service Officer,2020-02-23,106296.49,Active
+616,71,Praneel Chhabra,Branch Manager,2013-03-29,77632.75,Active
+617,45,Wridesh Handa,Credit Analyst,2022-02-23,69458.31,Active
+618,55,Irya Loke,Risk Analyst,2025-02-15,62954.57,Active
+619,87,Farhan Prakash,Customer Service Officer,2018-07-05,57703.0,Active
+620,12,Yagnesh Kara,Customer Service Officer,2016-09-14,56132.78,Active
+621,8,Azad Chander,Credit Analyst,2018-07-01,55433.08,Active
+622,35,Krishna Soni,Branch Manager,2012-07-22,29034.81,Active
+623,13,Onveer Butala,Customer Service Officer,2020-02-09,66454.47,Active
+624,39,Garima Chandran,Teller,2020-08-02,66241.1,Active
+625,64,Victor Kakar,Fraud Analyst,2026-05-16,68327.85,Active
+626,37,Anika Batra,Relationship Manager,2012-11-12,56208.8,Active
+627,88,Bachittar Gola,Teller,2026-01-26,62083.81,Active
+628,13,Amol Johal,Credit Analyst,2021-08-03,28091.53,Active
+629,46,Mitali Bose,Relationship Manager,2016-09-10,100528.73,Active
+630,61,Wridesh Ramachandran,Teller,2023-02-13,46710.65,Active
+631,61,Leena Dey,Relationship Manager,2025-01-18,50560.64,Active
+632,87,Xiti Pal,Relationship Manager,2012-07-07,63030.72,Active
+633,82,Rajeshri Kata,Loan Officer,2025-11-14,54503.18,Active
+634,82,Harini Ranganathan,Teller,2024-10-05,43830.39,Active
+635,28,Ayushman Mahajan,Investment Advisor,2024-12-06,57185.75,Active
+636,15,Vritti Kari,Risk Analyst,2017-08-27,61506.5,Leave
+637,63,Rachana Grewal,Risk Analyst,2023-03-02,79470.8,Active
+638,14,Frederick Merchant,Loan Officer,2025-03-06,66626.78,Active
+639,73,Ethan Butala,Risk Analyst,2016-02-29,53882.48,Active
+640,2,Lajita Dube,Customer Service Officer,2024-03-09,53579.89,Active
+641,94,Edhitha Patel,Investment Advisor,2013-06-01,72807.15,Active
+642,65,Abdul Morar,Operations Officer,2019-03-03,82548.46,Active
+643,90,Anamika Chaudry,Teller,2013-11-09,63319.57,Active
+644,23,Rachit Sankar,Investment Advisor,2019-03-29,41785.88,Active
+645,28,Harshil Bal,Teller,2013-02-15,47754.11,Active
+646,73,Girik Nair,Teller,2026-04-18,111453.06,Active
+647,30,Advik Manne,Loan Officer,2018-08-23,43254.52,Active
+648,41,Frado Kibe,Operations Officer,2021-05-02,28151.75,Active
+649,48,Lajita Gara,Fraud Analyst,2013-12-18,54428.89,Active
+650,24,Charvi Loyal,Operations Officer,2019-12-29,58324.71,Active
+651,28,Dev Ganesh,Teller,2018-12-30,51975.31,Active
+652,47,Oviya Mistry,Branch Manager,2019-11-03,62648.43,Active
+653,74,Jalsa Krishnamurthy,Loan Officer,2015-10-19,36518.2,Active
+654,11,Rohan Shankar,Relationship Manager,2013-06-03,91551.85,Active
+655,64,Daksha Ahuja,Teller,2018-05-02,91834.48,Active
+656,65,Lajita Narayan,Branch Manager,2019-02-03,62249.78,Active
+657,50,Qushi Deshpande,Teller,2016-09-17,40531.64,Active
+658,46,Sai Srinivas,Customer Service Officer,2016-12-12,61956.42,Leave
+659,91,Mitali Nagar,Fraud Analyst,2016-07-23,34112.67,Active
+660,30,Xavier Nanda,Fraud Analyst,2017-12-31,43698.73,Active
+661,37,Maya Patla,Fraud Analyst,2013-07-16,50707.51,Active
+662,18,Pranit Bala,Risk Analyst,2023-12-22,26893.74,Resigned
+663,77,Shaurya Sarma,Branch Manager,2025-03-04,150470.68,Active
+664,53,Ekapad Rege,Operations Officer,2023-01-19,31825.98,Active
+665,42,Liam Mitter,Loan Officer,2015-09-20,45445.8,Active
+666,46,Mitesh Sampath,Teller,2025-01-10,48180.2,Resigned
+667,68,Ethan Sen,Credit Analyst,2021-10-10,66346.2,Resigned
+668,13,Nandini Warrior,Loan Officer,2020-03-21,39574.68,Active
+669,51,Balhaar Parsa,Relationship Manager,2023-07-16,43663.59,Active
+670,24,Ikbal Kothari,Fraud Analyst,2022-10-16,86788.12,Active
+671,85,Ojas Basu,Investment Advisor,2021-03-08,59245.76,Active
+672,19,Garima Sani,Teller,2013-05-28,49084.72,Active
+673,54,Guneet Kuruvilla,Customer Service Officer,2015-05-19,66690.49,Active
+674,81,Sanaya Prasad,Investment Advisor,2018-04-04,52204.45,Active
+675,46,Xiti Dora,Fraud Analyst,2017-06-21,68321.87,Active
+676,96,Vasudha Cheema,Customer Service Officer,2016-08-17,59264.04,Active
+677,100,Frederick D’Alia,Customer Service Officer,2025-09-29,152623.42,Active
+678,27,Ijaya Muni,Risk Analyst,2017-06-09,83691.43,Active
+679,81,Samuel Verma,Credit Analyst,2019-10-26,57681.5,Active
+680,47,Vamakshi Chatterjee,Branch Manager,2019-01-21,83642.24,Active
+681,35,Eiravati Bhavsar,Risk Analyst,2016-09-16,36878.12,Active
+682,63,Ishwar Bajaj,Customer Service Officer,2026-01-18,83874.86,Active
+683,69,Ikbal Gala,Operations Officer,2024-03-14,59483.36,Active
+684,43,Zaitra Ghosh,Credit Analyst,2020-12-28,52261.67,Active
+685,42,Ganga Sandhu,Teller,2019-06-19,89400.92,Active
+686,56,Nidhi Gour,Risk Analyst,2014-10-10,49709.69,Active
+687,35,Meghana Balakrishnan,Credit Analyst,2024-02-23,57336.64,Active
+688,15,Shivani Sanghvi,Teller,2018-03-21,52851.16,Active
+689,8,Tanish Jha,Teller,2016-05-03,70499.01,Active
+690,35,Harsh Yadav,Loan Officer,2014-10-13,70975.27,Active
+691,23,Eshana Hegde,Risk Analyst,2019-05-22,42790.02,Active
+692,95,Adweta Suri,Customer Service Officer,2020-07-31,84226.75,Active
+693,72,Lipika Ramanathan,Credit Analyst,2021-08-03,87891.97,Active
+694,45,Ijaya Pandey,Credit Analyst,2025-12-26,115630.18,Active
+695,16,Orinder Mishra,Loan Officer,2022-01-21,59899.41,Active
+696,16,Krish Munshi,Customer Service Officer,2013-08-10,44982.06,Active
+697,66,Dalaja Dada,Fraud Analyst,2014-09-19,34110.28,Active
+698,39,Lohit Vaidya,Credit Analyst,2018-03-18,45846.14,Active
+699,78,Lakshit Rajagopal,Investment Advisor,2018-10-19,80042.75,Active
+700,53,Vidhi Yogi,Operations Officer,2023-05-26,55947.04,Active
+701,30,Ojas Suri,Teller,2016-07-07,100552.32,Active
+702,55,Rachit Murty,Operations Officer,2025-12-04,50640.04,Active
+703,74,Chatresh Parmer,Fraud Analyst,2011-10-07,64649.2,Active
+704,14,Laban Hayer,Loan Officer,2025-06-21,94018.27,Active
+705,53,Yashasvi Talwar,Investment Advisor,2018-07-25,71920.73,Active
+706,59,Ojasvi Sawhney,Operations Officer,2019-12-01,32585.96,Active
+707,12,Fitan Balasubramanian,Operations Officer,2025-02-21,72742.14,Active
+708,49,Brinda Bali,Risk Analyst,2016-04-11,79561.37,Active
+709,93,Bhavya Ganguly,Fraud Analyst,2024-11-19,76332.76,Active
+710,88,Warhi Vaidya,Loan Officer,2013-07-12,104676.29,Active
+711,6,Amrita Peri,Teller,2020-10-28,63877.04,Active
+712,68,Ridhi Kamdar,Branch Manager,2018-11-01,41417.64,Active
+713,51,Yug Mishra,Credit Analyst,2026-06-26,55315.51,Resigned
+714,37,Shivani Lall,Relationship Manager,2017-07-13,78012.06,Active
+715,90,Reva Dalal,Relationship Manager,2024-10-18,44585.32,Active
+716,13,Shaurya Panchal,Teller,2026-04-02,69124.64,Resigned
+717,11,Noah Dewan,Relationship Manager,2024-12-14,68816.28,Active
+718,84,Samuel Bhargava,Credit Analyst,2021-04-20,63272.92,Active
+719,37,Avni Yohannan,Fraud Analyst,2014-06-20,59800.67,Active
+720,41,Brinda Mann,Credit Analyst,2021-05-06,42637.89,Active
+721,18,Yoshita Chandran,Credit Analyst,2013-11-28,50118.77,Active
+722,82,Daniel Malhotra,Teller,2026-05-09,56855.99,Active
+723,31,Kevin Krish,Loan Officer,2014-02-02,74441.77,Active
+724,56,Yug Ramaswamy,Customer Service Officer,2019-12-06,40191.4,Active
+725,87,Amruta Sachdeva,Loan Officer,2017-12-26,75773.98,Active
+726,3,Faqid Chander,Customer Service Officer,2018-06-16,56525.9,Active
+727,21,Jyoti Sha,Investment Advisor,2019-11-27,141991.33,Active
+728,99,Aarnav Chander,Risk Analyst,2024-01-14,42305.59,Active
+729,54,Ishita Bhatnagar,Fraud Analyst,2025-02-20,43302.4,Active
+730,13,Tejas Sanghvi,Teller,2025-08-20,62036.29,Active
+731,2,Warda Loyal,Customer Service Officer,2017-02-04,63689.22,Active
+732,3,Geetika De,Customer Service Officer,2021-03-26,61624.54,Active
+733,54,Hemal Bava,Branch Manager,2012-05-20,59471.88,Resigned
+734,60,Tripti Babu,Fraud Analyst,2013-09-18,54610.87,Active
+735,84,Ridhi Shan,Operations Officer,2011-08-13,76909.41,Active
+736,58,Samaksh Deo,Customer Service Officer,2022-08-29,76984.93,Active
+737,59,Nathan Mahal,Risk Analyst,2013-03-10,52896.15,Active
+738,25,Zashil Butala,Relationship Manager,2017-12-05,48983.53,Active
+739,7,Charles Randhawa,Branch Manager,2022-03-31,83658.46,Active
+740,100,Vivaan Sanghvi,Operations Officer,2022-10-03,117201.54,Active
+741,51,Girish Agarwal,Risk Analyst,2015-03-27,93123.04,Active
+742,72,Faras Deo,Customer Service Officer,2021-09-13,63761.28,Active
+743,67,Zilmil Saxena,Risk Analyst,2011-10-05,63104.48,Active
+744,87,Hemal Dara,Fraud Analyst,2026-03-28,74794.93,Active
+745,9,Kevin Sridhar,Operations Officer,2012-10-22,72256.81,Active
+746,17,Leela Chakraborty,Fraud Analyst,2024-01-13,60965.85,Active
+747,57,Harshil Munshi,Fraud Analyst,2017-11-08,50963.13,Active
+748,77,Laksh Raja,Teller,2024-10-05,81036.96,Active
+749,68,Luke Biswas,Relationship Manager,2020-08-17,74867.96,Active
+750,60,Nitesh Sarraf,Risk Analyst,2017-07-30,55112.45,Active
+751,46,Max Sabharwal,Loan Officer,2022-01-31,70077.93,Active
+752,75,Teerth Chadha,Investment Advisor,2013-04-24,64181.47,Active
+753,50,Jatin Rajagopalan,Customer Service Officer,2017-08-01,34109.07,Active
+754,21,Divya Dey,Teller,2015-10-26,63873.46,Active
+755,62,Frado Kothari,Customer Service Officer,2021-01-06,66079.07,Active
+756,95,Avi Mitra,Credit Analyst,2015-02-05,103664.89,Active
+757,93,Manya Merchant,Investment Advisor,2022-08-06,70035.09,Active
+758,70,Wriddhish Talwar,Risk Analyst,2018-03-02,68178.39,Active
+759,99,Wridesh Tata,Investment Advisor,2022-06-16,34223.11,Active
+760,19,Advik Patel,Operations Officer,2016-12-26,70386.76,Active
+761,82,Lila Salvi,Fraud Analyst,2017-10-26,44898.02,Active
+762,43,Urishilla Bora,Teller,2011-11-20,94933.85,Resigned
+763,34,Akshay Lala,Operations Officer,2015-04-10,86464.96,Active
+764,100,Darpan Rao,Relationship Manager,2020-03-21,53571.73,Active
+765,81,Yachana Sagar,Branch Manager,2018-10-23,100653.64,Active
+766,9,Fitan Yadav,Teller,2020-09-30,67809.98,Active
+767,92,Arunima Chacko,Fraud Analyst,2016-11-15,50438.87,Active
+768,48,Yasti Jani,Customer Service Officer,2025-05-08,70545.42,Active
+769,93,Eta Raman,Credit Analyst,2021-07-30,203527.67,Active
+770,67,Dayita Sarkar,Branch Manager,2024-01-08,35875.43,Active
+771,94,Dalbir Konda,Credit Analyst,2013-01-25,58128.01,Active
+772,17,Jack Setty,Loan Officer,2022-01-07,47320.68,Resigned
+773,93,Dayamai Gill,Branch Manager,2013-08-20,31441.53,Active
+774,1,Laksh Apte,Fraud Analyst,2014-05-23,105193.84,Active
+775,20,Idika Virk,Branch Manager,2020-05-26,45189.03,Resigned
+776,22,Ojas Prabhu,Loan Officer,2013-10-05,77740.44,Active
+777,41,Jacob Balan,Branch Manager,2017-04-20,34923.43,Active
+778,99,Anita Viswanathan,Fraud Analyst,2012-09-08,119872.65,Active
+779,60,Faraj Taneja,Operations Officer,2019-05-07,56039.26,Active
+780,84,Christopher Tata,Loan Officer,2026-03-22,82667.15,Active
+781,93,Jhalak Dugar,Investment Advisor,2015-12-11,49377.37,Active
+782,28,Jack Kari,Risk Analyst,2024-03-16,41807.17,Active
+783,15,Chaitanya Arora,Credit Analyst,2015-10-06,24065.27,Active
+784,40,Urmi Patla,Branch Manager,2018-02-12,64191.87,Active
+785,24,Praneel Banik,Investment Advisor,2021-01-03,42904.73,Active
+786,87,Udarsh Nagy,Teller,2015-10-29,69419.93,Active
+787,23,Ekaja Madan,Teller,2025-08-27,83579.91,Active
+788,60,Kashish Dar,Customer Service Officer,2020-02-22,27649.22,Active
+789,57,Praneel Kapoor,Fraud Analyst,2025-04-14,48837.85,Active
+790,84,Nandini Biswas,Credit Analyst,2019-07-07,48736.65,Active
+791,86,Deepa Narang,Branch Manager,2013-01-26,91681.95,Active
+792,87,Abhiram Pillay,Fraud Analyst,2015-01-06,79793.27,Active
+793,62,Daksha Kibe,Teller,2019-06-30,81004.41,Active
+794,47,Wakeeta Hayre,Customer Service Officer,2024-01-24,73341.0,Active
+795,16,Matthew Ahuja,Investment Advisor,2018-07-30,65437.54,Active
+796,16,Viraj Pal,Operations Officer,2022-06-03,103686.49,Active
+797,74,Gautami Agarwal,Loan Officer,2024-07-06,69316.58,Resigned
+798,10,Damyanti Chawla,Customer Service Officer,2015-02-04,97788.23,Active
+799,68,Oni Swamy,Branch Manager,2012-08-15,43322.44,Active
+800,65,Ati Chander,Risk Analyst,2012-05-07,67208.73,Active
+801,81,Zinal Sachar,Risk Analyst,2023-07-11,39260.86,Active
+802,39,Tara Chad,Customer Service Officer,2021-06-25,56198.64,Leave
+803,23,Yashasvi Deol,Fraud Analyst,2022-06-11,75589.56,Active
+804,41,Falan Bhatia,Risk Analyst,2019-01-01,69393.97,Active
+805,6,Warjas Manne,Branch Manager,2016-01-16,86714.16,Active
+806,55,Maya Narain,Relationship Manager,2017-01-05,83128.76,Active
+807,90,Anita Kaur,Branch Manager,2012-11-15,76377.1,Active
+808,83,Laban Chopra,Branch Manager,2014-03-31,80594.5,Active
+809,78,Nitesh Sengupta,Fraud Analyst,2019-07-13,87237.34,Active
+810,88,Niharika Dara,Credit Analyst,2020-09-20,67988.36,Active
+811,97,Sarthak Seth,Relationship Manager,2016-11-05,26463.1,Active
+812,80,Alka Dar,Customer Service Officer,2013-02-20,96029.32,Active
+813,64,Daksha Baria,Credit Analyst,2015-04-06,63927.66,Active
+814,44,Manbir Chand,Operations Officer,2023-09-13,64891.65,Active
+815,22,Ishani Randhawa,Credit Analyst,2020-05-03,45537.51,Active
+816,67,Chandani Lad,Loan Officer,2025-07-21,59932.05,Active
+817,83,Azaan Ravel,Credit Analyst,2026-02-21,61353.74,Active
+818,75,Zaid Chandra,Teller,2019-06-19,47862.25,Active
+819,17,Logan Dara,Customer Service Officer,2011-10-22,91693.98,Active
+820,59,Tristan De,Relationship Manager,2014-12-22,44180.8,Active
+821,19,Kashish Chad,Customer Service Officer,2021-07-05,51468.06,Active
+822,68,Falan Bains,Relationship Manager,2012-09-12,56547.58,Active
+823,54,Sachi Dave,Operations Officer,2013-03-02,39540.79,Active
+824,54,Jason Basak,Investment Advisor,2019-06-12,71850.21,Resigned
+825,24,Om Sant,Loan Officer,2025-07-31,59304.98,Resigned
+826,66,Watika Balan,Customer Service Officer,2018-02-11,54527.5,Active
+827,28,Orinder Pandya,Risk Analyst,2015-04-04,81762.13,Active
+828,91,Anvi Mammen,Relationship Manager,2019-03-11,86020.19,Active
+829,3,Bakhshi Korpal,Fraud Analyst,2022-08-13,108768.28,Active
+830,24,Wishi Sabharwal,Fraud Analyst,2020-12-20,62425.88,Active
+831,26,Darsh Chahal,Operations Officer,2016-05-12,58152.0,Active
+832,19,Laksh Saini,Branch Manager,2014-12-30,63894.75,Active
+833,66,Anirudh Raja,Teller,2024-11-26,79537.89,Active
+834,48,Varsha Sundaram,Customer Service Officer,2017-06-15,40058.97,Active
+835,100,Lipika Madan,Loan Officer,2014-08-30,55535.7,Active
+836,98,Eiravati Kanda,Risk Analyst,2012-02-07,65964.88,Active
+837,65,Dalbir Sodhi,Relationship Manager,2020-08-10,74416.02,Active
+838,83,Viraj Dutta,Relationship Manager,2013-04-22,56556.32,Active
+839,73,Wridesh Lata,Fraud Analyst,2020-09-06,44757.32,Active
+840,74,Theodore Rama,Loan Officer,2017-08-21,76431.89,Active
+841,50,Patrick Khalsa,Credit Analyst,2021-09-06,67684.98,Active
+842,73,Jagrati Bala,Fraud Analyst,2023-07-28,66452.96,Resigned
+843,92,Lucky Guha,Relationship Manager,2025-11-02,119117.96,Active
+844,40,Dayamai Gill,Operations Officer,2019-12-12,72324.85,Active
+845,23,Gautam Bhalla,Branch Manager,2015-07-24,46886.65,Active
+846,40,Anmol Vyas,Loan Officer,2019-09-26,44148.71,Active
+847,58,Garima Jaggi,Relationship Manager,2025-04-28,48873.05,Resigned
+848,10,Harini Goel,Loan Officer,2025-04-03,65107.28,Active
+849,19,Daniel Bains,Branch Manager,2014-02-11,61487.2,Active
+850,74,Indrajit Vora,Customer Service Officer,2026-03-31,77647.83,Active
+851,91,Elijah Prakash,Investment Advisor,2023-08-03,56119.34,Leave
+852,6,Harrison Nayar,Risk Analyst,2016-09-26,48201.99,Active
+853,60,Laban Dugar,Relationship Manager,2024-01-23,66591.79,Active
+854,85,Vidhi Nadig,Loan Officer,2014-07-26,77075.97,Active
+855,60,Udant Gill,Customer Service Officer,2018-01-15,34017.21,Active
+856,37,Chaitaly Datta,Loan Officer,2014-08-17,29365.16,Active
+857,22,Mahika Bali,Fraud Analyst,2014-09-13,47021.71,Active
+858,68,Timothy Chawla,Relationship Manager,2020-01-17,59959.98,Active
+859,78,Garima Brahmbhatt,Customer Service Officer,2015-08-26,38569.71,Active
+860,29,Ekaja Ganesh,Teller,2022-06-05,79588.26,Active
+861,92,Gautami Sekhon,Teller,2011-10-18,80790.99,Active
+862,83,Shaurya Krish,Credit Analyst,2023-05-25,83719.43,Active
+863,1,Inaya Kunda,Branch Manager,2024-12-28,57731.4,Active
+864,25,Aarav Bava,Teller,2018-03-03,78661.92,Active
+865,52,Oni Ganesan,Investment Advisor,2018-08-24,47390.41,Active
+866,96,Kritika Panchal,Teller,2020-11-21,85130.22,Active
+867,49,Harrison Srinivas,Fraud Analyst,2025-01-07,43685.59,Active
+868,61,Nicholas Seth,Risk Analyst,2012-11-09,45772.99,Active
+869,35,Chaitaly Bahri,Operations Officer,2017-01-09,68092.24,Active
+870,81,Henry Borah,Operations Officer,2017-06-01,53651.49,Active
+871,30,Keya Dyal,Risk Analyst,2024-01-21,26567.11,Active
+872,23,Girik Nigam,Relationship Manager,2021-09-16,41233.45,Active
+873,85,Azaan Sankar,Loan Officer,2022-09-21,99868.37,Active
+874,33,Radha Dugar,Relationship Manager,2012-07-06,63346.06,Active
+875,32,Garima Jha,Fraud Analyst,2014-11-01,88575.32,Active
+876,28,Alka Manda,Operations Officer,2016-08-29,113763.04,Active
+877,19,Gopal Bawa,Customer Service Officer,2018-04-15,85603.73,Active
+878,62,Mitesh Bhagat,Relationship Manager,2017-09-28,124362.38,Active
+879,74,Prisha Chahal,Investment Advisor,2016-08-12,44183.1,Active
+880,13,Ryan Chatterjee,Customer Service Officer,2012-01-15,72194.57,Active
+881,93,Onkar Manne,Relationship Manager,2012-12-30,78056.02,Active
+882,88,Jack Morar,Fraud Analyst,2024-12-15,59716.86,Active
+883,13,Urishilla Suresh,Teller,2022-11-06,77822.16,Active
+884,53,Gavin Ram,Relationship Manager,2014-09-30,88262.97,Active
+885,17,Lakshmi Pingle,Risk Analyst,2014-10-11,43595.12,Active
+886,32,Chaitanya Lall,Fraud Analyst,2019-01-31,108910.87,Active
+887,25,Adya Kara,Customer Service Officer,2025-11-04,66053.66,Active
+888,86,David Dora,Risk Analyst,2024-05-26,110803.89,Active
+889,51,Frederick Padmanabhan,Customer Service Officer,2025-05-08,55071.11,Active
+890,66,Utkarsh Bhat,Risk Analyst,2025-11-27,98770.52,Active
+891,3,Omya Wason,Teller,2023-04-17,110763.69,Active
+892,48,Warinder Soni,Loan Officer,2016-09-08,41120.52,Active
+893,22,Megha Banerjee,Customer Service Officer,2020-02-22,80575.57,Resigned
+894,92,Jai Sen,Branch Manager,2014-07-18,27271.26,Active
+895,45,Siddharth Hans,Loan Officer,2013-10-01,91128.66,Active
+896,64,Pallavi Brar,Fraud Analyst,2023-03-23,50404.42,Active
+897,83,Saksham Divan,Credit Analyst,2025-10-16,38599.53,Active
+898,62,Ekaja Bhavsar,Branch Manager,2013-01-30,35781.34,Active
+899,75,Mekhala Nanda,Fraud Analyst,2026-03-05,73386.95,Active
+900,2,Zinal Shanker,Relationship Manager,2026-06-18,55763.09,Active
+901,31,Oni Chowdhury,Loan Officer,2018-08-27,65774.46,Active
+902,8,Manbir Chaudhry,Risk Analyst,2013-05-26,101676.68,Active
+903,45,Bhavika Wason,Operations Officer,2017-06-14,88805.49,Active
+904,83,Aishani Rajagopal,Operations Officer,2022-09-28,78483.13,Active
+905,92,Urvashi Barad,Customer Service Officer,2014-07-14,67819.22,Active
+906,3,Neha Dhawan,Teller,2022-02-13,64621.28,Active
+907,36,Balvan Randhawa,Fraud Analyst,2017-03-29,114992.11,Active
+908,42,Chandran Soman,Customer Service Officer,2016-03-03,88298.23,Active
+909,59,Anmol Nazareth,Risk Analyst,2025-07-05,45920.65,Active
+910,76,Deepa Mand,Fraud Analyst,2025-12-10,47071.15,Active
+911,79,Guneet Kari,Relationship Manager,2013-11-21,41601.77,Active
+912,23,Saanvi Nagi,Loan Officer,2016-03-09,65130.53,Resigned
+913,62,Gaurav Guha,Customer Service Officer,2019-02-12,128774.73,Active
+914,61,Niharika Sundaram,Relationship Manager,2024-07-10,72127.94,Active
+915,96,Daksh Varma,Teller,2025-01-25,41996.41,Active
+916,22,Dominic Mukhopadhyay,Fraud Analyst,2023-09-04,76528.25,Active
+917,79,Krishna Viswanathan,Branch Manager,2021-04-11,67674.28,Active
+918,84,Oscar Hans,Relationship Manager,2026-06-29,59293.24,Active
+919,1,Dalbir Krish,Teller,2012-03-01,53293.89,Active
+920,46,Chandresh Patel,Loan Officer,2023-08-04,71114.02,Active
+921,89,Anusha Pillay,Investment Advisor,2025-08-12,61316.04,Active
+922,71,Yashasvi Ranganathan,Investment Advisor,2022-05-31,36281.82,Active
+923,18,Azaan Khurana,Loan Officer,2017-12-09,77680.29,Active
+924,38,Sanaya Goel,Branch Manager,2026-05-30,73606.01,Active
+925,61,Inaya Padmanabhan,Fraud Analyst,2014-05-21,59598.72,Active
+926,16,Gautam Mane,Relationship Manager,2012-01-26,56011.65,Resigned
+927,75,Chandran Gaba,Teller,2026-02-16,67295.66,Active
+928,48,Timothy Kar,Teller,2023-02-18,98812.4,Active
+929,38,Amruta Rout,Investment Advisor,2020-05-02,95531.96,Active
+930,79,Aditya Som,Fraud Analyst,2013-11-08,74638.55,Active
+931,80,Abhiram Kapur,Teller,2015-11-24,65333.36,Active
+932,61,Anvi Sampath,Credit Analyst,2018-01-03,86316.92,Active
+933,74,Tripti Krishnan,Risk Analyst,2015-04-25,71321.45,Leave
+934,98,Chasmum Verma,Operations Officer,2025-08-17,36689.39,Active
+935,63,Harsh Amble,Teller,2020-04-21,88562.18,Active
+936,25,Barkha Misra,Loan Officer,2023-03-31,72566.63,Active
+937,54,Vasatika Bhatt,Loan Officer,2017-04-28,49921.77,Active
+938,89,Ekta Malhotra,Risk Analyst,2016-01-17,63177.55,Active
+939,22,Raghav Doctor,Credit Analyst,2020-05-27,77854.77,Active
+940,76,Dakshesh Raval,Customer Service Officer,2022-11-03,73845.56,Active
+941,47,Logan Bal,Relationship Manager,2022-10-02,53247.27,Active
+942,33,Chakrika Lad,Operations Officer,2018-09-21,67495.64,Active
+943,79,Lipika Banik,Investment Advisor,2021-07-09,42485.1,Active
+944,77,Hemal Kapadia,Loan Officer,2023-04-12,174849.6,Active
+945,66,Jagrati Tripathi,Branch Manager,2016-09-16,63577.29,Active
+946,43,Pratyush Memon,Customer Service Officer,2013-04-06,53898.96,Active
+947,29,Kabir Kuruvilla,Investment Advisor,2023-12-10,63418.53,Active
+948,55,Gautami Chakraborty,Operations Officer,2015-05-21,57685.05,Active
+949,59,Udant Mohanty,Investment Advisor,2018-10-03,74632.8,Active
+950,73,Kamya Lad,Credit Analyst,2021-07-25,45183.6,Active
+951,37,Ubika Dalal,Fraud Analyst,2019-08-10,81081.65,Active
+952,79,Ekavir Sodhi,Teller,2014-11-29,105100.71,Active
+953,20,Lakshmi Wagle,Operations Officer,2016-09-04,29574.8,Active
+954,42,Chatura Dora,Credit Analyst,2013-12-09,38638.53,Active
+955,98,Hema Rout,Loan Officer,2021-04-16,39426.8,Active
+956,50,Luke Mutti,Customer Service Officer,2026-04-10,53880.76,Leave
+957,32,Faris Sura,Branch Manager,2017-04-05,92151.99,Resigned
+958,40,Dhriti Bhardwaj,Investment Advisor,2011-09-07,24634.77,Active
+959,56,Anusha Kadakia,Operations Officer,2024-07-20,48317.88,Active
+960,94,Nathan Suri,Investment Advisor,2024-12-17,86522.8,Active
+961,39,Kai Saraf,Relationship Manager,2022-05-19,37272.16,Resigned
+962,26,Netra Sanghvi,Customer Service Officer,2019-09-22,42146.66,Active
+963,82,Aayush Barad,Customer Service Officer,2020-09-06,59218.92,Active
+964,92,Kashvi Atwal,Teller,2017-01-31,44491.35,Active
+965,10,Andrew Agrawal,Investment Advisor,2022-04-07,41029.9,Active
+966,60,Upkaar Padmanabhan,Operations Officer,2016-11-29,40371.03,Active
+967,95,Harshil Rajagopal,Fraud Analyst,2020-03-01,39535.28,Active
+968,48,Oliver Bhattacharyya,Loan Officer,2025-08-14,26564.08,Active
+969,40,Chanchal Mannan,Relationship Manager,2019-05-12,51795.45,Active
+970,39,Radha Desai,Relationship Manager,2017-06-07,79384.75,Active
+971,40,Jagrati Guha,Branch Manager,2014-05-29,60221.96,Active
+972,73,Anirudh Kari,Customer Service Officer,2015-06-02,52932.91,Active
+973,71,Siddharth Bains,Risk Analyst,2021-08-20,54415.66,Active
+974,68,Jatin Peri,Risk Analyst,2023-09-13,86599.65,Active
+975,13,Keya Kumer,Relationship Manager,2024-09-21,60780.62,Active
+976,60,Chanakya Chokshi,Fraud Analyst,2022-09-21,95859.29,Active
+977,54,Chanakya D’Alia,Branch Manager,2018-09-10,44029.07,Active
+978,92,Lajita Dasgupta,Teller,2020-11-29,83841.62,Active
+979,28,Urvi Dua,Credit Analyst,2015-02-05,69891.21,Active
+980,38,Charvi Salvi,Investment Advisor,2022-11-10,51501.44,Active
+981,62,Zinal Madan,Risk Analyst,2022-03-13,46978.98,Leave
+982,59,Omya Cheema,Relationship Manager,2020-04-21,79242.01,Active
+983,93,Barkha Comar,Teller,2024-12-14,71825.85,Active
+984,85,Widisha Issac,Fraud Analyst,2021-12-18,42521.15,Active
+985,22,Adya Virk,Branch Manager,2015-01-13,72199.33,Active
+986,54,Nimrat Merchant,Branch Manager,2014-05-01,92055.15,Active
+987,15,Watika Johal,Relationship Manager,2023-04-24,42196.25,Leave
+988,23,Ganga Keer,Investment Advisor,2011-08-26,45513.64,Active
+989,90,Gaurav Choudhry,Operations Officer,2025-10-23,81030.87,Active
+990,17,Manthan Chana,Operations Officer,2024-11-11,101886.05,Leave
+991,93,Harrison Kunda,Loan Officer,2022-07-25,48543.8,Active
+992,15,Tanmayi Minhas,Risk Analyst,2016-02-05,40599.0,Active
+993,95,Chandresh Chaudhry,Teller,2025-06-08,28870.06,Active
+994,1,Balveer Mannan,Credit Analyst,2017-09-24,109496.06,Active
+995,80,Pooja D’Alia,Risk Analyst,2013-03-21,51538.23,Active
+996,57,Aditya Devi,Investment Advisor,2022-11-20,29248.19,Active
+997,62,Falguni Parmar,Relationship Manager,2019-01-18,38607.62,Active
+998,43,Girik Pradhan,Relationship Manager,2025-06-20,70398.92,Active
+999,93,Qadim Comar,Teller,2018-06-03,77652.64,Active
+1000,50,Tanmayi Magar,Customer Service Officer,2025-10-26,62308.57,Active
+1001,64,Vanya Sama,Credit Analyst,2022-08-22,102421.22,Active
+1002,11,Isaiah Deo,Investment Advisor,2023-06-12,62833.62,Active
+1003,66,Nathaniel Chawla,Investment Advisor,2018-09-06,57487.33,Active
+1004,19,Raksha Golla,Investment Advisor,2022-01-01,64547.04,Active
+1005,66,Jagrati Balakrishnan,Customer Service Officer,2026-04-11,43860.34,Active
+1006,58,Vasudha Sura,Branch Manager,2013-07-10,83646.53,Active
+1007,81,Ridhi Batra,Risk Analyst,2012-09-05,45037.9,Active
+1008,99,Dipta Arora,Investment Advisor,2023-08-04,30410.57,Active
+1009,28,Hamsini Venkataraman,Relationship Manager,2020-07-02,67175.65,Leave
+1010,4,Rachita Kothari,Customer Service Officer,2019-10-20,60459.62,Active
+1011,9,Lekha Dixit,Investment Advisor,2025-11-16,40807.03,Resigned
+1012,25,Advay Dugar,Loan Officer,2020-03-15,66465.42,Active
+1013,24,Warhi Gandhi,Customer Service Officer,2012-11-16,91317.53,Active
+1014,10,Ekani Khosla,Credit Analyst,2017-03-26,78597.3,Active
+1015,5,Chandresh Tripathi,Credit Analyst,2015-05-23,42953.75,Active
+1016,95,Neha Keer,Loan Officer,2012-12-10,110368.18,Active
+1017,87,Sachi Sem,Branch Manager,2013-02-05,89095.76,Active
+1018,89,Sanya Mutti,Loan Officer,2013-08-15,40651.75,Active
+1019,21,Andrew Chauhan,Risk Analyst,2018-06-19,64814.07,Active
+1020,97,Balendra Acharya,Branch Manager,2025-08-27,65464.85,Active
+1021,15,Daksha Trivedi,Fraud Analyst,2021-03-03,78678.09,Active
+1022,21,Tanmayi Om,Investment Advisor,2017-10-13,33905.1,Active
+1023,5,Udant Sha,Customer Service Officer,2017-04-01,54335.84,Active
+1024,68,Januja Sethi,Loan Officer,2013-07-17,76903.51,Active
+1025,99,Tristan Agate,Customer Service Officer,2017-05-30,116278.6,Active
+1026,10,Bishakha Vig,Risk Analyst,2017-12-18,64661.71,Leave
+1027,72,Chakradev Gala,Operations Officer,2019-12-24,79615.12,Active
+1028,53,Nimrat Chhabra,Operations Officer,2015-12-06,46609.94,Active
+1029,59,Raghav Dara,Customer Service Officer,2026-02-06,101797.2,Active
+1030,30,Tanveer Shankar,Operations Officer,2025-08-18,73920.2,Active
+1031,72,Hamsini Chokshi,Customer Service Officer,2024-06-25,96649.42,Active
+1032,58,Chakradhar Dasgupta,Teller,2024-09-26,52854.51,Active
+1033,34,Tanvi Thaman,Operations Officer,2013-11-22,35358.48,Resigned
+1034,1,Aayush Wali,Relationship Manager,2024-02-16,62573.33,Active
+1035,54,Rachita Subramanian,Fraud Analyst,2020-04-01,69587.97,Active
+1036,80,Oscar Dave,Investment Advisor,2013-05-13,69681.21,Active
+1037,17,Ekanta Thaman,Relationship Manager,2018-02-23,39556.81,Active
+1038,78,Yuvraj Mahal,Customer Service Officer,2018-05-16,64155.44,Active
+1039,14,Chaitaly Sethi,Investment Advisor,2025-04-17,70937.63,Active
+1040,31,Lakshit Sachar,Teller,2021-11-07,70374.28,Active
+1041,60,Dipta Kalla,Customer Service Officer,2015-01-08,49679.29,Active
+1042,34,Bina Pai,Fraud Analyst,2023-01-15,64795.69,Leave
+1043,90,Pranav Thakur,Branch Manager,2020-10-30,78248.46,Active
+1044,4,Jack Pandey,Relationship Manager,2021-03-02,38776.44,Leave
+1045,78,Omisha Walla,Operations Officer,2016-06-19,42746.54,Active
+1046,35,Agastya Virk,Relationship Manager,2013-05-31,55697.25,Active
+1047,20,Lakshmi Dhillon,Branch Manager,2012-07-03,69099.84,Active
+1048,24,Ryan Loke,Relationship Manager,2024-05-13,63515.67,Active
+1049,50,Bhavini Krishna,Relationship Manager,2014-02-03,104675.14,Active
+1050,14,Chakrika Jani,Teller,2024-06-03,52846.22,Active
+1051,68,Jagrati Sethi,Investment Advisor,2013-05-06,66910.33,Active
+1052,45,Lopa Khanna,Fraud Analyst,2020-04-17,53289.73,Active
+1053,66,Champak Raj,Credit Analyst,2018-03-13,60173.39,Active
+1054,73,Dhriti Bhagat,Operations Officer,2011-10-28,34484.9,Active
+1055,8,Samaksh Savant,Operations Officer,2025-09-21,96726.57,Active
+1056,74,Jhalak Hegde,Customer Service Officer,2024-10-21,98746.4,Active
+1057,69,Chaitaly Sen,Teller,2014-08-15,105792.31,Active
+1058,45,Rachit Ghose,Operations Officer,2024-02-09,50215.71,Active
+1059,6,Krishna Baria,Investment Advisor,2018-11-22,55202.02,Active
+1060,23,Aishani De,Customer Service Officer,2014-05-04,90004.53,Active
+1061,18,Abdul Narayanan,Investment Advisor,2019-07-15,32771.33,Active
+1062,6,Balveer Dube,Investment Advisor,2017-02-02,67969.3,Active
+1063,67,Charvi Swaminathan,Fraud Analyst,2025-01-15,57927.03,Active
+1064,5,Elijah Nadkarni,Customer Service Officer,2020-07-16,69345.98,Active
+1065,35,Qarin Verma,Customer Service Officer,2012-10-05,53710.93,Active
+1066,77,Ojasvi Yadav,Fraud Analyst,2018-06-19,42653.93,Active
+1067,60,Ikshita Kant,Operations Officer,2015-03-26,26417.6,Active
+1068,73,Garima Patel,Operations Officer,2016-08-06,37110.08,Active
+1069,47,Vaishnavi Andra,Teller,2013-07-21,70102.32,Active
+1070,28,Sanaya Khosla,Loan Officer,2022-07-12,31118.7,Active
+1071,25,Balveer Nagi,Fraud Analyst,2018-02-02,44615.44,Active
+1072,78,Libni Kunda,Credit Analyst,2020-10-16,55344.86,Active
+1073,98,Aryan Varughese,Fraud Analyst,2025-08-03,52534.13,Active
+1074,76,Yoshita Trivedi,Risk Analyst,2019-03-08,50134.02,Active
+1075,54,Caleb Minhas,Relationship Manager,2022-09-08,47005.45,Active
+1076,42,Ekani Varkey,Branch Manager,2013-01-01,86318.32,Resigned
+1077,2,Oliver Yogi,Fraud Analyst,2020-09-03,83536.79,Active
+1078,7,Dominic Kade,Operations Officer,2023-01-03,41881.23,Active
+1079,12,Panini Chawla,Relationship Manager,2015-02-06,46863.9,Active
+1080,8,Ekbal Dube,Teller,2012-01-03,41208.28,Active
+1081,36,Garima Barad,Customer Service Officer,2013-02-02,80393.96,Active
+1082,16,Chatura Gokhale,Fraud Analyst,2025-02-11,52616.1,Active
+1083,52,Ekavir Kari,Teller,2016-01-02,57385.88,Active
+1084,52,Lipika Seshadri,Credit Analyst,2022-04-29,111161.59,Active
+1085,21,Rachita Mutti,Teller,2011-11-21,48422.69,Active
+1086,70,Jagat Warrior,Branch Manager,2011-09-14,70232.5,Active
+1087,96,Chakradev Bora,Loan Officer,2017-09-08,103645.18,Active
+1088,62,Bimala Mitra,Customer Service Officer,2021-12-03,44319.28,Active
+1089,22,Baghyawati Sarma,Branch Manager,2018-02-03,53670.53,Active
+1090,19,Azaan Som,Customer Service Officer,2014-04-06,74125.0,Active
+1091,79,Laban Raman,Risk Analyst,2025-02-26,62954.68,Active
+1092,5,Maanas Misra,Branch Manager,2023-02-15,40335.29,Active
+1093,75,Advay Dhaliwal,Teller,2013-09-12,65255.39,Active
+1094,94,Abdul Ramesh,Credit Analyst,2020-09-27,21299.18,Active
+1095,61,Dalaja Kade,Credit Analyst,2024-05-01,33201.65,Active
+1096,88,Siddharth Sachar,Relationship Manager,2022-08-04,29066.92,Active
+1097,16,Naveen Gour,Operations Officer,2015-05-11,63883.18,Active
+1098,85,Rishi Contractor,Branch Manager,2014-09-08,69487.75,Active
+1099,50,Triya Bora,Relationship Manager,2016-07-19,42902.67,Active
+1100,2,Zashil Chaudhari,Fraud Analyst,2014-12-17,47242.62,Active
+1101,19,Ganga Parikh,Fraud Analyst,2013-10-13,49904.49,Resigned
+1102,67,Harish Mane,Credit Analyst,2022-02-21,54447.41,Active
+1103,54,Rishi Nadkarni,Loan Officer,2019-11-14,76060.58,Active
+1104,42,Falguni Mohan,Teller,2023-05-26,58723.39,Active
+1105,22,Janya Mutti,Risk Analyst,2018-11-21,44515.92,Active
+1106,66,Aayush Munshi,Investment Advisor,2015-10-16,92722.52,Active
+1107,90,Rajata Malhotra,Risk Analyst,2025-11-23,90973.84,Active
+1108,39,Krish Narula,Loan Officer,2019-10-08,70782.76,Active
+1109,36,Sanaya Parmer,Investment Advisor,2024-10-13,133638.28,Active
+1110,66,Vidhi Chopra,Teller,2014-08-05,57265.85,Active
+1111,24,Avni Dey,Teller,2020-10-06,33389.28,Active
+1112,76,Adya Bose,Customer Service Officer,2023-12-24,86729.99,Active
+1113,36,Anirudh Tripathi,Branch Manager,2022-05-07,81502.84,Resigned
+1114,56,Nidhi Kala,Risk Analyst,2012-03-23,76546.72,Active
+1115,45,Urmi Dixit,Branch Manager,2017-10-29,94507.17,Active
+1116,16,Udant Mannan,Teller,2013-11-17,113956.14,Active
+1117,78,Yachana Uppal,Operations Officer,2013-02-21,90017.67,Active
+1118,71,Januja Thakkar,Relationship Manager,2011-10-13,38717.31,Active
+1119,44,Noah Varkey,Loan Officer,2013-12-28,76032.99,Active
+1120,78,Nathaniel Gola,Relationship Manager,2021-03-28,53630.21,Active
+1121,99,Veda Parmer,Relationship Manager,2012-04-16,40004.24,Active
+1122,32,Vinaya Kata,Investment Advisor,2012-09-02,63723.63,Active
+1123,84,Kala Kaur,Credit Analyst,2012-05-01,62510.33,Active
+1124,95,Zarna Patel,Customer Service Officer,2018-03-16,82744.85,Active
+1125,69,Suhani Batra,Risk Analyst,2012-04-12,51393.87,Active
+1126,96,Harshil Verma,Operations Officer,2022-05-19,25777.21,Resigned
+1127,88,Adya Ghosh,Customer Service Officer,2018-01-04,93614.25,Active
+1128,1,Jasmit Brahmbhatt,Relationship Manager,2020-05-23,67393.79,Active
+1129,84,Krisha Kapoor,Customer Service Officer,2020-05-21,106977.37,Active
+1130,60,Ira Pai,Credit Analyst,2019-11-20,78842.1,Active
+1131,76,Abeer Thaker,Branch Manager,2013-12-19,86034.5,Active
+1132,19,Noah Karpe,Customer Service Officer,2012-11-30,79770.17,Active
+1133,43,Siddharth Doctor,Risk Analyst,2014-10-13,50978.43,Active
+1134,86,Janaki Dani,Credit Analyst,2022-11-06,32586.75,Active
+1135,72,Oeshi Narayanan,Fraud Analyst,2023-11-09,31815.03,Active
+1136,77,Vasatika Srinivas,Risk Analyst,2019-10-02,64114.65,Active
+1137,83,Neel Roy,Operations Officer,2011-12-26,59373.78,Active
+1138,11,Caleb Datta,Fraud Analyst,2021-05-11,69873.73,Active
+1139,11,Krish Vala,Customer Service Officer,2012-04-08,32379.27,Active
+1140,42,Daksh Ganesan,Relationship Manager,2015-12-30,63737.46,Resigned
+1141,72,Zansi Ravi,Branch Manager,2021-10-19,45217.79,Active
+1142,61,Bhanumati Chada,Branch Manager,2015-04-15,96582.62,Active
+1143,26,Urishilla Subramaniam,Customer Service Officer,2014-07-03,29469.28,Active
+1144,46,Nirja Dhar,Teller,2025-02-13,79469.11,Active
+1145,13,Yasti Lalla,Risk Analyst,2014-06-16,49999.3,Resigned
+1146,4,Sudiksha Biswas,Relationship Manager,2015-07-07,81216.73,Active
+1147,11,Lekha Deo,Customer Service Officer,2013-06-13,98908.1,Active
+1148,57,Samaksh Virk,Fraud Analyst,2026-03-24,65339.67,Active
+1149,29,Mason Char,Credit Analyst,2014-08-15,59850.11,Active
+1150,30,Balvan Wali,Branch Manager,2020-03-01,46503.19,Active
+1151,79,Girik Subramaniam,Investment Advisor,2022-10-27,101688.61,Active
+1152,38,Aarav Sankar,Operations Officer,2020-06-25,100562.08,Active
+1153,7,Kamala Bassi,Customer Service Officer,2023-06-22,53967.07,Active
+1154,57,Veer Subramaniam,Operations Officer,2025-01-13,52824.63,Active
+1155,50,Inaya Chaudhari,Customer Service Officer,2018-11-03,52015.88,Active
+1156,60,Aachal Sood,Loan Officer,2024-08-18,77313.72,Active
+1157,4,Fiyaz Mander,Customer Service Officer,2021-10-12,61591.37,Active
+1158,73,Aarini Gulati,Credit Analyst,2011-09-11,47175.53,Active
+1159,24,Jacob Venkatesh,Credit Analyst,2011-09-22,65866.19,Active
+1160,32,Samesh Mutti,Risk Analyst,2018-07-23,31228.21,Active
+1161,29,Hredhaan Dubey,Credit Analyst,2018-11-07,55404.11,Active
+1162,17,Advika Wason,Operations Officer,2018-10-22,40043.43,Leave
+1163,90,Anya Ranganathan,Operations Officer,2024-06-12,36260.03,Active
+1164,66,Odika Subramanian,Branch Manager,2014-08-23,60124.63,Active
+1165,53,Veda Kulkarni,Operations Officer,2016-10-26,39787.01,Resigned
+1166,90,Mitali Devi,Customer Service Officer,2026-02-23,90434.38,Active
+1167,72,Victor Sekhon,Investment Advisor,2024-12-04,69744.33,Active
+1168,30,Harish Kala,Risk Analyst,2020-04-01,24679.15,Active
+1169,74,Hamsini Ben,Teller,2014-05-03,72040.32,Active
+1170,21,Abdul Chand,Operations Officer,2025-08-10,93759.42,Active
+1171,62,Urishilla Saran,Teller,2013-02-06,120215.79,Active
+1172,54,Adya Kapadia,Loan Officer,2017-11-29,44746.95,Active
+1173,43,Baljiwan Rajagopalan,Loan Officer,2018-06-02,38085.2,Active
+1174,59,Dakshesh Gill,Fraud Analyst,2022-06-30,49699.05,Active
+1175,82,Reva Anne,Branch Manager,2015-01-13,89278.19,Active
+1176,44,Robert Bandi,Customer Service Officer,2024-12-09,49228.82,Active
+1177,57,Omkaar Banik,Teller,2017-09-21,71882.47,Active
+1178,28,Aadi Dugar,Credit Analyst,2013-01-29,57857.0,Active
+1179,9,Mugdha Pandit,Fraud Analyst,2022-12-30,97747.21,Active
+1180,74,Nidra Iyer,Operations Officer,2020-05-30,72691.42,Active
+1181,71,Ekapad Chana,Credit Analyst,2020-12-14,49960.4,Active
+1182,6,Ijaya Palan,Customer Service Officer,2025-06-23,49421.55,Active
+1183,19,Upkaar Hayer,Credit Analyst,2019-05-04,87646.71,Active
+1184,4,Aayush Lal,Credit Analyst,2014-07-31,52485.63,Active
+1185,45,Yashawini Chhabra,Investment Advisor,2021-02-08,108391.29,Active
+1186,60,Yahvi Menon,Teller,2017-05-21,116314.27,Active
+1187,15,Yochana Kurian,Operations Officer,2026-07-04,125027.07,Active
+1188,80,Saanvi Purohit,Investment Advisor,2021-03-08,73772.33,Active
+1189,89,Yagnesh Nori,Loan Officer,2024-10-18,57989.09,Active
+1190,78,Triveni Bala,Risk Analyst,2019-10-20,58203.02,Active
+1191,23,Aarna Bir,Customer Service Officer,2018-02-10,66950.32,Active
+1192,13,Victor Mutti,Loan Officer,2018-08-14,62683.73,Active
+1193,63,Zaitra Wason,Risk Analyst,2011-10-08,56634.44,Active
+1194,9,Yuvraj Mani,Investment Advisor,2013-03-08,51716.65,Active
+1195,92,Hema Borra,Relationship Manager,2021-01-13,72052.89,Active
+1196,45,Vamakshi Murthy,Teller,2017-08-13,61079.65,Active
+1197,82,Amruta Goswami,Loan Officer,2024-04-18,71612.5,Active
+1198,63,Wishi Iyengar,Loan Officer,2015-08-07,117866.03,Active
+1199,55,Alka Jhaveri,Credit Analyst,2015-07-03,60829.37,Active
+1200,65,Zaid Parekh,Credit Analyst,2014-04-04,60956.71,Active
+1201,86,Jagdish Brar,Operations Officer,2023-02-06,48453.91,Active
+1202,33,Abeer Basak,Credit Analyst,2026-01-11,79937.81,Active
+1203,52,Kamya Murty,Relationship Manager,2019-12-24,49379.15,Active
+1204,87,Vritti Goswami,Customer Service Officer,2024-08-08,123894.66,Active
+1205,28,Mitali Kapadia,Credit Analyst,2024-05-13,42176.91,Active
+1206,86,Chatura Vora,Teller,2025-03-14,54214.86,Active
+1207,85,Vanya Zachariah,Risk Analyst,2012-02-27,32405.07,Active
+1208,87,Meera Ghosh,Operations Officer,2019-05-19,40811.24,Active
+1209,77,Zarna Sharma,Loan Officer,2016-12-21,39612.53,Active
+1210,23,Advik Kade,Loan Officer,2018-01-21,65659.75,Active
+1211,47,Eshana Pathak,Investment Advisor,2022-01-10,56149.86,Active
+1212,91,Rachit Lall,Customer Service Officer,2015-08-21,33375.25,Active
+1213,57,Urishilla Oza,Teller,2017-10-29,76150.96,Active
+1214,87,Wishi Samra,Branch Manager,2015-03-09,100036.39,Active
+1215,92,Kashish Patla,Relationship Manager,2026-02-19,43263.73,Active
+1216,41,Ati Seshadri,Customer Service Officer,2014-08-30,73036.53,Active
+1217,38,Veer Chaudhry,Customer Service Officer,2023-11-12,61234.04,Leave
+1218,99,Warinder Sankaran,Relationship Manager,2026-03-03,52783.97,Active
+1219,18,Rohan Dhingra,Relationship Manager,2025-03-19,43857.15,Active
+1220,1,Urvashi Andra,Branch Manager,2014-08-10,53371.44,Active
+1221,49,Xalak Desai,Loan Officer,2026-01-19,64764.89,Active
+1222,83,Vidhi Mital,Risk Analyst,2015-11-15,82158.55,Active
+1223,73,Mitali Chaudhary,Relationship Manager,2023-05-08,43024.78,Active
+1224,55,Darpan Kale,Loan Officer,2025-06-12,50511.08,Active
+1225,45,Vamakshi Char,Customer Service Officer,2019-04-04,47047.3,Active
+1226,39,Abha Patel,Fraud Analyst,2017-09-24,62941.56,Active
+1227,18,Hemangini Bahri,Investment Advisor,2018-08-10,92397.43,Active
+1228,63,Indali Issac,Investment Advisor,2021-06-01,52120.81,Active
+1229,9,Bhavani Pant,Fraud Analyst,2017-02-18,134090.95,Active
+1230,2,Sanya Brar,Branch Manager,2018-01-31,35674.61,Resigned
+1231,74,Ubika Dhillon,Risk Analyst,2026-05-17,67349.5,Active
+1232,99,Geetika Sama,Teller,2022-05-05,55291.99,Active
+1233,13,Ekbal Buch,Branch Manager,2014-05-11,122692.22,Active
+1234,73,Vedant Murthy,Branch Manager,2016-12-29,59888.45,Active
+1235,56,Amara Rana,Operations Officer,2016-03-20,91534.8,Active
+1236,29,Janani Verma,Fraud Analyst,2019-04-06,70842.16,Active
+1237,95,Oliver Gour,Risk Analyst,2026-02-18,51240.58,Active
+1238,2,Jeremiah Keer,Risk Analyst,2022-11-12,43644.11,Active
+1239,92,Fariq Kade,Fraud Analyst,2014-06-11,45022.76,Active
+1240,75,Harshil Chandran,Customer Service Officer,2012-09-08,97198.79,Active
+1241,69,Chatura Bal,Credit Analyst,2024-09-19,79818.38,Active
+1242,68,Fiyaz Chawla,Risk Analyst,2016-01-25,60837.75,Active
+1243,35,Frado Ramakrishnan,Operations Officer,2016-11-12,68937.31,Active
+1244,30,Yug Mander,Credit Analyst,2019-02-21,43524.93,Active
+1245,16,Karan Vyas,Customer Service Officer,2025-11-13,54057.15,Active
+1246,83,Ayush Banerjee,Fraud Analyst,2022-11-22,51076.93,Active
+1247,45,Eshana Soni,Operations Officer,2019-07-21,69066.04,Active
+1248,24,Sai Deshmukh,Loan Officer,2023-06-21,72604.28,Leave
+1249,29,Tanmayi Saran,Risk Analyst,2020-07-04,63168.3,Active
+1250,98,Idika Subramaniam,Credit Analyst,2020-10-13,51994.01,Active
+1251,61,Gaurav Sathe,Credit Analyst,2016-11-03,57232.96,Active
+1252,94,Nitara Lad,Investment Advisor,2014-04-02,67455.87,Active
+1253,96,Advaith Acharya,Customer Service Officer,2020-07-03,85845.99,Active
+1254,68,Hemangini Mangat,Credit Analyst,2019-08-02,81251.97,Active
+1255,7,Vyanjana Sood,Relationship Manager,2016-09-12,90862.04,Active
+1256,41,Qushi Master,Fraud Analyst,2021-10-04,58145.21,Active
+1257,50,Abhimanyu Prakash,Branch Manager,2014-10-23,32572.2,Active
+1258,48,Rajeshri Rana,Teller,2015-11-08,76619.89,Resigned
+1259,3,Madhavi Radhakrishnan,Branch Manager,2015-05-10,56802.6,Active
+1260,61,Fariq Sami,Relationship Manager,2022-03-29,75635.52,Active
+1261,23,Zansi Magar,Loan Officer,2016-06-11,82999.91,Active
+1262,70,Nitara Guha,Loan Officer,2026-02-14,55384.1,Active
+1263,8,Qabil Deshpande,Credit Analyst,2016-07-12,83746.68,Active
+1264,96,Tamanna Sethi,Branch Manager,2016-03-25,67485.41,Active
+1265,1,Raghav Nagi,Loan Officer,2011-12-07,36222.35,Active
+1266,98,Chandran Warrior,Loan Officer,2011-12-24,37777.33,Active
+1267,93,Harsh Manda,Operations Officer,2016-03-07,186294.22,Active
+1268,8,Raksha Anand,Customer Service Officer,2015-07-25,134291.85,Active
+1269,78,Matthew Aurora,Risk Analyst,2019-12-31,34762.7,Active
+1270,22,Hema Salvi,Credit Analyst,2016-11-26,110310.56,Active
+1271,50,Kamya Sheth,Fraud Analyst,2023-06-17,44583.8,Active
+1272,2,Ganga Buch,Branch Manager,2025-12-14,68948.62,Active
+1273,98,Daksh Lata,Customer Service Officer,2024-10-18,80863.39,Active
+1274,64,Ekbal Singhal,Credit Analyst,2014-09-10,50826.73,Active
+1275,73,Zashil Raj,Teller,2025-09-10,76376.72,Active
+1276,34,Jairaj Kothari,Operations Officer,2018-02-24,164305.26,Active
+1277,97,Yug Bandi,Loan Officer,2014-12-28,43333.22,Active
+1278,4,Girindra Verma,Branch Manager,2022-12-07,78324.57,Active
+1279,27,Urvashi Ramachandran,Relationship Manager,2023-03-13,48772.67,Active
+1280,70,Ekantika Dutt,Loan Officer,2022-04-22,67183.8,Active
+1281,88,Jason Kulkarni,Investment Advisor,2019-10-16,46806.51,Active
+1282,43,Rushil Patel,Operations Officer,2012-06-27,64426.91,Active
+1283,81,Isaiah Keer,Loan Officer,2022-05-15,55583.96,Resigned
+1284,18,Ekta Aurora,Fraud Analyst,2014-06-13,101364.17,Active
+1285,70,Jagdish Randhawa,Customer Service Officer,2025-01-10,67359.91,Active
+1286,29,Aditya Basak,Teller,2021-06-27,65258.11,Active
+1287,9,Mohammed Prabhu,Fraud Analyst,2024-09-18,75557.25,Active
+1288,88,Yuvraj Dugar,Customer Service Officer,2020-02-09,49339.37,Resigned
+1289,54,Hamsini Bhasin,Relationship Manager,2012-08-14,62346.28,Active
+1290,86,Mitesh Yadav,Risk Analyst,2025-01-25,40508.14,Active
+1291,99,Jeremiah Sura,Customer Service Officer,2015-07-24,65668.51,Active
+1292,30,Idika Sarna,Loan Officer,2024-01-28,108235.07,Active
+1293,17,Ansh Purohit,Customer Service Officer,2017-09-11,43381.83,Active
+1294,22,Zashil Baral,Credit Analyst,2019-11-10,50394.05,Active
+1295,19,Chaitaly Suri,Risk Analyst,2014-10-31,70951.4,Active
+1296,37,Ijaya Naik,Relationship Manager,2024-01-23,50831.03,Resigned
+1297,91,Anvi Dyal,Teller,2012-10-09,55769.3,Active
+1298,40,Shivani Merchant,Fraud Analyst,2025-07-17,64674.56,Active
+1299,65,Jeevika Setty,Branch Manager,2011-08-13,47871.2,Active
+1300,46,Qasim Bahl,Branch Manager,2022-02-22,43835.03,Active
+1301,16,William Nagi,Operations Officer,2023-11-14,106373.15,Active
+1302,81,Lila Gupta,Teller,2020-07-08,77945.76,Active
+1303,22,Mitesh Mandal,Risk Analyst,2017-02-02,42283.32,Active
+1304,70,Ekanta Choudhry,Credit Analyst,2013-03-29,69360.1,Active
+1305,45,Caleb Dayal,Relationship Manager,2014-08-23,52366.06,Active
+1306,64,Saksham Chhabra,Risk Analyst,2019-11-10,57336.62,Active
+1307,2,Hardik Balay,Operations Officer,2021-04-26,60547.79,Active
+1308,80,Vrishti Vora,Fraud Analyst,2022-03-21,94119.13,Active
+1309,67,Chandran Peri,Operations Officer,2015-05-11,45508.76,Active
+1310,71,Agastya Joshi,Credit Analyst,2022-10-04,124909.23,Active
+1311,31,Fariq Sidhu,Loan Officer,2025-03-25,116017.72,Leave
+1312,10,Jalsa Sagar,Operations Officer,2025-08-02,76019.68,Active
+1313,30,Dalbir Lata,Branch Manager,2020-08-08,34561.37,Active
+1314,63,Ekavir Modi,Fraud Analyst,2012-12-05,66872.87,Active
+1315,76,Zilmil Chatterjee,Investment Advisor,2013-04-28,77986.56,Active
+1316,28,Lekha Gupta,Relationship Manager,2014-11-21,143862.87,Active
+1317,59,Praneel Sagar,Loan Officer,2024-04-18,26786.7,Active
+1318,13,Ishita Shanker,Risk Analyst,2023-07-22,49934.22,Active
+1319,22,Hemang Ganesan,Fraud Analyst,2025-01-31,52684.31,Active
+1320,43,Neelima Thaman,Teller,2017-05-06,56786.01,Active
+1321,45,Saanvi Pandey,Investment Advisor,2016-12-18,51114.2,Active
+1322,57,Kamya Sachar,Loan Officer,2024-08-08,45421.08,Active
+1323,62,Ekiya Khosla,Investment Advisor,2021-03-08,70651.95,Active
+1324,94,Keya Kumar,Investment Advisor,2017-09-23,55563.66,Active
+1325,85,Sara Ranganathan,Teller,2011-08-10,32663.03,Active
+1326,17,Bhavani Babu,Loan Officer,2020-05-29,51196.69,Active
+1327,84,Chasmum Ahuja,Teller,2016-09-17,38110.64,Active
+1328,29,Tanish Murty,Branch Manager,2011-12-21,69582.79,Resigned
+1329,20,Yasti Dubey,Investment Advisor,2013-03-16,83491.95,Active
+1330,79,Triveni Parekh,Teller,2014-04-05,65189.37,Active
+1331,90,Alka Peri,Branch Manager,2021-07-04,118617.12,Active
+1332,49,Viraj Kunda,Loan Officer,2025-05-26,57236.25,Active
+1333,3,George Ratta,Loan Officer,2021-04-14,62134.2,Active
+1334,76,Faras Nair,Relationship Manager,2025-02-02,79908.18,Active
+1335,3,Oscar Sura,Relationship Manager,2025-08-25,52178.8,Active
+1336,7,Charita Barad,Branch Manager,2024-01-13,85013.99,Active
+1337,61,Farhan Bhalla,Customer Service Officer,2024-09-19,49284.18,Active
+1338,80,Ijaya Saraf,Fraud Analyst,2018-09-09,57209.71,Active
+1339,92,Utkarsh Apte,Customer Service Officer,2022-05-21,40238.79,Active
+1340,43,Chatura Mody,Fraud Analyst,2020-07-10,71023.56,Active
+1341,71,Eiravati Zacharia,Relationship Manager,2021-03-19,57481.67,Active
+1342,52,Eta Thakkar,Branch Manager,2023-06-22,107224.56,Active
+1343,75,Michael Bedi,Loan Officer,2023-01-23,43938.43,Active
+1344,44,Sanaya Thaman,Relationship Manager,2013-02-18,24198.7,Active
+1345,88,Rachana Mann,Loan Officer,2024-12-24,62825.53,Active
+1346,40,Manbir Deo,Loan Officer,2017-04-27,124401.55,Active
+1347,87,Vamakshi Bawa,Operations Officer,2020-12-05,42089.74,Active
+1348,20,Adweta Chada,Credit Analyst,2018-05-20,53666.78,Active
+1349,40,Kalpit Deshmukh,Loan Officer,2019-10-14,54829.23,Active
+1350,44,Vinaya Rana,Customer Service Officer,2022-09-12,87817.75,Active
+1351,100,Yatin Kibe,Customer Service Officer,2012-10-27,34614.62,Active
+1352,96,Qushi Naik,Credit Analyst,2023-04-02,85739.7,Active
+1353,27,Isaiah Sachdev,Teller,2018-10-22,61941.12,Active
+1354,11,Ijaya Halder,Credit Analyst,2017-01-21,56925.53,Active
+1355,23,Arjun Mody,Teller,2014-06-25,128596.37,Active
+1356,17,Riya Dhingra,Fraud Analyst,2019-02-04,73106.86,Active
+1357,21,Vivaan Iyengar,Risk Analyst,2023-04-06,88511.86,Active
+1358,35,Nachiket Chada,Operations Officer,2013-07-07,63910.93,Resigned
+1359,14,Xavier Divan,Fraud Analyst,2026-05-20,60916.41,Active
+1360,41,Akshay Oza,Fraud Analyst,2023-05-29,78361.96,Active
+1361,17,Dalaja Sengupta,Credit Analyst,2019-08-14,66761.94,Active
+1362,4,Garima Kadakia,Fraud Analyst,2024-03-11,30903.44,Active
+1363,85,Samar Virk,Customer Service Officer,2024-05-14,63869.52,Active
+1364,12,Vasudha Dhaliwal,Relationship Manager,2023-06-06,81732.75,Active
+1365,6,Krisha Vyas,Investment Advisor,2012-05-05,56742.52,Active
+1366,12,Onkar Bhasin,Risk Analyst,2016-06-07,29116.73,Active
+1367,11,Anika Bera,Teller,2019-07-07,79689.53,Active
+1368,36,Ekalinga Rama,Fraud Analyst,2022-11-02,73730.2,Active
+1369,14,Jagvi Chokshi,Customer Service Officer,2011-12-05,77941.32,Active
+1370,94,Libni Kashyap,Operations Officer,2018-01-29,74312.48,Active
+1371,87,Diya Sundaram,Operations Officer,2026-05-07,85230.59,Active
+1372,61,Quincy Issac,Customer Service Officer,2020-02-13,42900.88,Active
+1373,62,Anthony Baral,Fraud Analyst,2015-10-24,62843.6,Active
+1374,51,Gauri Suri,Fraud Analyst,2018-04-18,50187.57,Active
+1375,21,Andrew Palan,Investment Advisor,2023-03-31,49079.24,Active
+1376,33,Isha Mittal,Loan Officer,2015-08-15,44742.26,Active
+1377,57,David Kurian,Branch Manager,2018-03-10,50468.47,Active
+1378,52,Ati Kar,Fraud Analyst,2014-03-08,74732.05,Active
+1379,26,Maya Devan,Risk Analyst,2013-02-04,90412.76,Active
+1380,33,Utkarsh Sahni,Teller,2015-09-10,55581.04,Active
+1381,35,Pooja Muni,Credit Analyst,2021-11-25,107969.38,Active
+1382,88,Saumya Deep,Investment Advisor,2015-02-13,114160.95,Active
+1383,44,Samaksh Devi,Teller,2016-11-10,64608.15,Resigned
+1384,58,Qushi Dhillon,Fraud Analyst,2022-10-07,53406.18,Active
+1385,47,Eesha Bir,Investment Advisor,2021-01-31,91114.73,Active
+1386,94,Qarin Nadkarni,Credit Analyst,2025-11-19,61129.69,Active
+1387,54,Ayushman Nagar,Relationship Manager,2018-08-24,56372.85,Active
+1388,18,Chavvi Savant,Risk Analyst,2024-04-15,44297.55,Active
+1389,26,Max Guha,Customer Service Officer,2013-06-02,45723.42,Active
+1390,58,Qasim Bal,Fraud Analyst,2024-07-28,38927.32,Active
+1391,2,Vihaan Kata,Loan Officer,2015-07-13,96714.18,Active
+1392,7,Jagrati Buch,Fraud Analyst,2023-04-23,33809.35,Active
+1393,76,Krish Thakkar,Operations Officer,2025-12-30,99884.38,Active
+1394,13,Kashvi Gour,Teller,2026-02-05,70054.06,Active
+1395,52,Vyanjana Som,Risk Analyst,2013-12-10,52122.34,Active
+1396,7,Reyansh Kara,Investment Advisor,2012-02-25,45769.4,Active
+1397,99,Alexander Madan,Branch Manager,2018-08-18,56549.45,Active
+1398,26,Samaksh Jayaraman,Teller,2012-09-22,105549.85,Resigned
+1399,85,Reva Suri,Relationship Manager,2023-04-22,54094.45,Active
+1400,68,Tanvi Koshy,Investment Advisor,2018-11-16,52755.78,Active
+1401,53,Benjamin Rai,Fraud Analyst,2023-11-09,58655.25,Active
+1402,97,Meera Yadav,Risk Analyst,2020-07-15,50173.59,Active
+1403,54,Ikbal Seth,Branch Manager,2019-05-18,89218.57,Active
+1404,98,Yatan Venkataraman,Operations Officer,2020-10-02,52282.83,Leave
+1405,58,Balveer Ram,Fraud Analyst,2020-05-20,117846.53,Active
+1406,72,Ranveer Manne,Teller,2019-01-30,41109.44,Leave
+1407,74,Daksha Mangal,Risk Analyst,2019-06-14,45824.95,Active
+1408,54,Pahal Menon,Credit Analyst,2022-01-12,41243.57,Active
+1409,4,Zansi Dhar,Loan Officer,2019-06-28,57159.56,Active
+1410,98,Gautam Tella,Branch Manager,2013-07-12,52554.23,Active
+1411,9,Krishna Ramaswamy,Teller,2018-08-21,47255.09,Active
+1412,4,Shravya Bakshi,Risk Analyst,2014-08-24,40821.83,Active
+1413,50,Saksham Sha,Fraud Analyst,2013-02-19,43964.57,Active
+1414,17,Ekiya Gade,Investment Advisor,2023-10-28,36379.12,Active
+1415,42,Gavin Comar,Customer Service Officer,2023-08-14,66681.77,Active
+1416,22,Janani Chada,Branch Manager,2020-07-06,40805.34,Active
+1417,73,Yasti Dutta,Branch Manager,2018-01-17,54991.21,Active
+1418,95,Caleb Garde,Investment Advisor,2017-04-21,59922.11,Active
+1419,43,Nicholas Dhillon,Loan Officer,2014-08-24,57679.87,Active
+1420,57,Oni Morar,Branch Manager,2016-11-13,89522.1,Leave
+1421,94,Bhavya Golla,Branch Manager,2013-08-08,79075.53,Active
+1422,49,Samaksh Aggarwal,Operations Officer,2022-03-12,87368.35,Active
+1423,68,Advik Shanker,Fraud Analyst,2020-01-26,64736.59,Active
+1424,28,Abdul Tak,Teller,2015-08-26,93141.16,Active
+1425,17,Vamakshi Setty,Loan Officer,2018-07-31,69909.17,Active
+1426,78,Fariq Ahuja,Branch Manager,2015-10-07,84857.01,Active
+1427,52,Sarthak Bawa,Credit Analyst,2014-09-30,34892.21,Active
+1428,68,Christopher Palla,Loan Officer,2012-03-24,56600.84,Active
+1429,55,Bachittar Misra,Fraud Analyst,2017-03-27,29939.9,Active
+1430,10,Chandran Chopra,Fraud Analyst,2018-09-11,50231.36,Active
+1431,60,Neel Mane,Credit Analyst,2021-12-31,41227.19,Resigned
+1432,78,Tamanna Parsa,Teller,2012-03-18,61170.74,Active
+1433,49,Chandani Naidu,Risk Analyst,2017-11-15,52954.61,Leave
+1434,43,Ekansh Sane,Credit Analyst,2025-12-13,38310.2,Active
+1435,33,Brinda Sinha,Investment Advisor,2013-11-22,56615.01,Active
+1436,10,Anvi Narayan,Customer Service Officer,2020-07-26,83098.04,Active
+1437,71,Shaurya Kadakia,Fraud Analyst,2022-01-06,75932.14,Active
+1438,87,Ikbal Wadhwa,Branch Manager,2013-02-03,59473.23,Active
+1439,54,Bhavna Sane,Risk Analyst,2021-12-17,33644.26,Active
+1440,97,Aashi Vora,Relationship Manager,2021-05-21,73984.24,Active
+1441,42,Kai Taneja,Teller,2020-06-11,41513.5,Active
+1442,55,Waida Gole,Branch Manager,2021-12-20,28218.7,Active
+1443,98,Bina Hari,Teller,2011-08-18,113348.45,Active
+1444,77,Arjun Shroff,Relationship Manager,2022-03-30,55090.62,Active
+1445,81,Sarthak Sachdeva,Loan Officer,2018-08-24,63737.57,Active
+1446,42,Gauri Palla,Fraud Analyst,2021-02-19,69722.58,Leave
+1447,73,Advay Jaggi,Relationship Manager,2023-05-05,60525.73,Active
+1448,19,Aachal Bir,Relationship Manager,2016-11-02,51487.72,Active
+1449,82,Yashawini Naik,Teller,2024-08-26,58294.53,Active
+1450,69,Ishaan Nath,Loan Officer,2017-05-30,56861.18,Active
+1451,83,Ayush Gill,Loan Officer,2014-11-26,93931.31,Active
+1452,81,Hamsini Srinivas,Relationship Manager,2019-09-04,48363.73,Active
+1453,9,Laban Subramaniam,Investment Advisor,2014-03-31,63709.1,Active
+1454,76,Gautami Shere,Branch Manager,2024-12-09,28711.25,Active
+1455,49,Daksh Verma,Relationship Manager,2016-09-11,49283.61,Active
+1456,86,Anirudh Joshi,Loan Officer,2021-06-04,51835.63,Active
+1457,32,Irya Bhatti,Loan Officer,2014-02-21,80815.88,Active
+1458,72,Azaan Nori,Customer Service Officer,2017-12-26,67796.76,Leave
+1459,34,Lopa Grover,Operations Officer,2021-09-23,42506.12,Active
+1460,9,Darika Murty,Risk Analyst,2023-09-05,53993.12,Active
+1461,51,Anita Sachdev,Credit Analyst,2013-01-29,79299.05,Active
+1462,39,Wazir Prabhu,Branch Manager,2019-04-17,165013.33,Active
+1463,28,Tarak Vohra,Loan Officer,2016-09-29,118515.39,Active
+1464,20,Isaac Prasad,Customer Service Officer,2024-12-15,65833.72,Active
+1465,79,Saksham Chanda,Investment Advisor,2019-02-25,69176.79,Active
+1466,5,Vasudha Tella,Loan Officer,2014-03-23,48492.26,Active
+1467,12,Harini Sule,Operations Officer,2024-01-24,37709.83,Active
+1468,17,Falak Dhar,Branch Manager,2024-09-10,28472.98,Active
+1469,41,Zaitra Deo,Credit Analyst,2015-02-03,45584.25,Active
+1470,70,Tripti Ram,Loan Officer,2023-09-29,64288.28,Active
+1471,58,Aayush Mukhopadhyay,Credit Analyst,2012-05-08,71540.07,Active
+1472,50,Gauri Sibal,Teller,2012-05-21,51502.81,Active
+1473,67,Devika Bajaj,Credit Analyst,2021-06-05,91337.15,Active
+1474,4,Shaurya Nagi,Fraud Analyst,2015-01-06,35083.68,Active
+1475,17,Bhavini Malhotra,Branch Manager,2020-08-28,51623.92,Active
+1476,91,Ridhi Dalal,Credit Analyst,2016-03-29,37124.56,Active
+1477,4,Nakul Mahal,Investment Advisor,2013-07-20,40214.68,Active
+1478,40,Yoshita Chaudry,Branch Manager,2015-02-12,43805.28,Active
+1479,13,Eiravati Madan,Customer Service Officer,2014-01-04,40351.2,Active
+1480,2,Yash Garg,Risk Analyst,2012-10-24,88855.63,Active
+1481,66,Hamsini Zachariah,Branch Manager,2019-02-24,64752.37,Active
+1482,55,Kalpit Balakrishnan,Credit Analyst,2019-08-12,55866.04,Active
+1483,58,Hitesh Rajagopal,Investment Advisor,2012-07-08,89242.24,Active
+1484,57,Pooja Ramanathan,Investment Advisor,2014-08-25,143573.67,Active
+1485,45,Ishani Muni,Credit Analyst,2017-04-04,29080.09,Active
+1486,71,Farhan Shroff,Teller,2021-04-06,53579.8,Active
+1487,34,Girik Sidhu,Credit Analyst,2013-04-04,30089.3,Active
+1488,32,Dayita Shroff,Branch Manager,2019-08-10,58162.66,Active
+1489,50,Udarsh Dhawan,Risk Analyst,2026-04-02,31844.24,Active
+1490,70,Januja Ramanathan,Operations Officer,2014-09-21,70875.86,Active
+1491,70,Ekta Setty,Customer Service Officer,2019-11-24,73644.5,Active
+1492,93,Dhruv Soman,Investment Advisor,2013-07-10,75968.73,Active
+1493,52,Varenya Shenoy,Relationship Manager,2025-12-28,109255.28,Active
+1494,38,Barkha Pall,Customer Service Officer,2021-11-19,25026.23,Active
+1495,94,Yashoda Chauhan,Credit Analyst,2018-07-03,68780.1,Active
+1496,48,Eshana Bobal,Loan Officer,2025-01-30,31795.35,Active
+1497,16,Triya Rattan,Customer Service Officer,2021-08-25,52886.59,Active
+1498,13,William Kohli,Risk Analyst,2020-12-03,150392.55,Active
+1499,69,Vasatika Rajagopalan,Operations Officer,2012-09-22,41463.18,Active
+1500,61,Sathvik Sankar,Fraud Analyst,2024-12-11,56177.68,Active
